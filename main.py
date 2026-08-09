@@ -13,7 +13,7 @@ INPUT_FILE = "data/articles_metadata.xlsx"
 
 OUTPUT_FILE = "outputs/articles_metadata_output.xlsx"
 
-ARTICLE_COLUMN = "Article Name"
+ARTICLE_COLUMN = "article"
 
 SAVE_EVERY = 50
 
