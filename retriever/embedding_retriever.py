@@ -1,4 +1,3 @@
-
 import pickle
 
 from sentence_transformers import SentenceTransformer
@@ -41,7 +40,52 @@ class EmbeddingRetriever:
             reverse=True
         )
 
-        return [profile for _, profile in ranked[:top_k]]
+        results = []
+
+        for similarity, profile in ranked[:top_k]:
+
+            result = dict(profile)
+
+            result["retrieval_similarity"] = float(similarity)
+
+            results.append(result)
+
+        return results
+
+    def calculate_semantic_similarity(
+        self,
+        commercial_profile,
+        mcc_profile
+    ):
+        """
+        Compare the independent commercial profile against
+        the selected MCC profile.
+
+        This is the 80% component of confidence.
+        """
+
+        commercial_text = self._commercial_profile_to_text(
+            commercial_profile
+        )
+
+        mcc_text = self._mcc_profile_to_text(
+            mcc_profile
+        )
+
+        embeddings = self.model.encode(
+            [
+                commercial_text,
+                mcc_text
+            ],
+            convert_to_numpy=True
+        )
+
+        similarity = cosine_similarity(
+            [embeddings[0]],
+            [embeddings[1]]
+        )[0][0]
+
+        return float(similarity)
 
     def _profile_to_text(self, profile):
 
@@ -69,6 +113,47 @@ Target Customers:
 
 Business Model:
 {profile.get("business_model", "")}
+
+Country:
+{profile.get("country", "")}
+"""
+
+    def _commercial_profile_to_text(self, profile):
+
+        return f"""
+Commercial Activity:
+{profile.get("commercial_activity", "")}
+
+Primary Offering:
+{profile.get("primary_offering", "")}
+
+Delivery Method:
+{profile.get("delivery_method", "")}
+
+Customer Type:
+{profile.get("customer_type", "")}
+
+Revenue Model:
+{profile.get("revenue_model", "")}
+
+Business Context:
+{profile.get("business_context", "")}
+"""
+
+    def _mcc_profile_to_text(self, profile):
+
+        return f"""
+MCC:
+{profile.get("mcc", "")}
+
+Industry:
+{profile.get("industry", "")}
+
+Category:
+{profile.get("category", "")}
+
+Description:
+{profile.get("description", "")}
 
 Keywords:
 {' '.join(profile.get("keywords", []))}
