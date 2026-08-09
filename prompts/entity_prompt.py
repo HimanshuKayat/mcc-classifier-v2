@@ -30,8 +30,8 @@ Return ONLY valid JSON.
 
 Use exactly this structure:
 
-{
-    "entity_profile": {
+{{
+    "entity_profile": {{
         "entity_name": "",
         "entity_type": "",
         "summary": "",
@@ -44,17 +44,17 @@ Use exactly this structure:
         "country": "",
         "keywords": [],
         "aliases": []
-    },
+    }},
 
-    "commercial_profile": {
+    "commercial_profile": {{
         "commercial_activity": "",
         "primary_offering": "",
         "delivery_method": "",
         "customer_type": "",
         "revenue_model": "",
         "business_context": ""
-    }
-}
+    }}
+}}
 
 Important rules:
 
