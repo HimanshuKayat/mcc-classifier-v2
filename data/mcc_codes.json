@@ -1,0 +1,5190 @@
+[
+  {
+    "mcc": "0742",
+    "industry": "Veterinary Services",
+    "category": "Agriculture",
+    "description": "Veterinary clinics and animal hospital services for pets and livestock.",
+    "keywords": [
+      "veterinarian",
+      "vet",
+      "animal hospital",
+      "pet clinic",
+      "livestock care"
+    ],
+    "aliases": [
+      "vet",
+      "vets",
+      "veterinary",
+      "veterinary clinic",
+      "animal hospital"
+    ]
+  },
+  {
+    "mcc": "0743",
+    "industry": "Wine Producers",
+    "category": "Agriculture",
+    "description": "Wineries and vineyards producing and selling wine, excluding tasting rooms.",
+    "keywords": [
+      "winery",
+      "vineyard",
+      "wine producer",
+      "wine maker",
+      "viticulture"
+    ],
+    "aliases": [
+      "winery",
+      "wineries",
+      "wine producer",
+      "vineyard"
+    ]
+  },
+  {
+    "mcc": "0744",
+    "industry": "Champagne Producers",
+    "category": "Agriculture",
+    "description": "Champagne houses and sparkling wine producers.",
+    "keywords": [
+      "champagne",
+      "sparkling wine",
+      "winery",
+      "producer",
+      "cellar"
+    ],
+    "aliases": [
+      "champagne house",
+      "champagne producer"
+    ]
+  },
+  {
+    "mcc": "0763",
+    "industry": "Agricultural Cooperatives",
+    "category": "Agriculture",
+    "description": "Farm supply and agricultural cooperative organizations.",
+    "keywords": [
+      "farm co-op",
+      "agricultural cooperative",
+      "farm supply",
+      "crop services",
+      "agribusiness"
+    ],
+    "aliases": [
+      "agricultural coop",
+      "ag cooperative",
+      "farm cooperative"
+    ]
+  },
+  {
+    "mcc": "0780",
+    "industry": "Landscaping and Horticultural Services",
+    "category": "Agriculture",
+    "description": "Landscaping, gardening, lawn care and horticultural services.",
+    "keywords": [
+      "landscaping",
+      "lawn care",
+      "gardening",
+      "horticulture",
+      "yard maintenance"
+    ],
+    "aliases": [
+      "landscaper",
+      "landscaping services",
+      "lawn service",
+      "gardening service"
+    ]
+  },
+  {
+    "mcc": "1520",
+    "industry": "General Contractors - Residential and Commercial",
+    "category": "Construction",
+    "description": "General building contractors for residential and commercial construction.",
+    "keywords": [
+      "general contractor",
+      "construction",
+      "builder",
+      "building contractor",
+      "construction company"
+    ],
+    "aliases": [
+      "general contractor",
+      "gc",
+      "building contractor",
+      "construction contractor"
+    ]
+  },
+  {
+    "mcc": "1711",
+    "industry": "Heating, Plumbing and Air Conditioning Contractors",
+    "category": "Construction",
+    "description": "Contractors installing heating, plumbing and air conditioning systems.",
+    "keywords": [
+      "hvac",
+      "plumbing contractor",
+      "heating contractor",
+      "ac installation",
+      "air conditioning"
+    ],
+    "aliases": [
+      "hvac contractor",
+      "plumber",
+      "heating and ac",
+      "hvac company"
+    ]
+  },
+  {
+    "mcc": "1731",
+    "industry": "Electrical Contractors",
+    "category": "Construction",
+    "description": "Contractors performing electrical installation and wiring work.",
+    "keywords": [
+      "electrician",
+      "electrical contractor",
+      "wiring",
+      "electrical installation",
+      "electrical work"
+    ],
+    "aliases": [
+      "electrical contractor",
+      "electricians",
+      "electrical services"
+    ]
+  },
+  {
+    "mcc": "1740",
+    "industry": "Masonry, Stonework and Tile Contractors",
+    "category": "Construction",
+    "description": "Contractors specializing in masonry, stonework, tile and plastering.",
+    "keywords": [
+      "masonry",
+      "stonework",
+      "tile contractor",
+      "plastering",
+      "brickwork"
+    ],
+    "aliases": [
+      "mason",
+      "masonry contractor",
+      "tile installer",
+      "stonework contractor"
+    ]
+  },
+  {
+    "mcc": "1750",
+    "industry": "Carpentry Contractors",
+    "category": "Construction",
+    "description": "Contractors performing carpentry and woodworking construction work.",
+    "keywords": [
+      "carpentry",
+      "carpenter",
+      "woodwork",
+      "framing",
+      "cabinetry"
+    ],
+    "aliases": [
+      "carpenter",
+      "carpentry contractor",
+      "woodworking contractor"
+    ]
+  },
+  {
+    "mcc": "1761",
+    "industry": "Roofing, Siding and Sheet Metal Work",
+    "category": "Construction",
+    "description": "Contractors installing roofing, siding and sheet metal work.",
+    "keywords": [
+      "roofing",
+      "siding",
+      "sheet metal",
+      "roof repair",
+      "gutter installation"
+    ],
+    "aliases": [
+      "roofer",
+      "roofing contractor",
+      "siding contractor"
+    ]
+  },
+  {
+    "mcc": "1771",
+    "industry": "Concrete Work Contractors",
+    "category": "Construction",
+    "description": "Contractors performing concrete pouring and finishing work.",
+    "keywords": [
+      "concrete",
+      "cement contractor",
+      "paving",
+      "driveway",
+      "foundation work"
+    ],
+    "aliases": [
+      "concrete contractor",
+      "cement work",
+      "concrete company"
+    ]
+  },
+  {
+    "mcc": "1799",
+    "industry": "Special Trade Contractors",
+    "category": "Construction",
+    "description": "Special trade construction contractors not otherwise classified.",
+    "keywords": [
+      "special trade contractor",
+      "construction trade",
+      "subcontractor",
+      "building trade",
+      "specialty construction"
+    ],
+    "aliases": [
+      "special trade contractors",
+      "specialty contractor"
+    ]
+  },
+  {
+    "mcc": "2741",
+    "industry": "Miscellaneous Publishing and Printing",
+    "category": "Professional Services",
+    "description": "Publishing and commercial printing services not otherwise classified.",
+    "keywords": [
+      "publishing",
+      "printing",
+      "print shop",
+      "publisher",
+      "printed materials"
+    ],
+    "aliases": [
+      "publishing services",
+      "printing services",
+      "printer"
+    ]
+  },
+  {
+    "mcc": "2791",
+    "industry": "Typesetting, Plate Making and Related Services",
+    "category": "Professional Services",
+    "description": "Typesetting, plate-making and prepress services for printing.",
+    "keywords": [
+      "typesetting",
+      "plate making",
+      "prepress",
+      "print production",
+      "graphic prepress"
+    ],
+    "aliases": [
+      "typesetter",
+      "prepress services"
+    ]
+  },
+  {
+    "mcc": "2842",
+    "industry": "Specialty Cleaning, Polishing and Sanitation Preparations",
+    "category": "Retail",
+    "description": "Wholesale suppliers of specialty cleaning and sanitation products.",
+    "keywords": [
+      "cleaning supplies",
+      "sanitation products",
+      "polishing agents",
+      "chemical supplier",
+      "janitorial supplies"
+    ],
+    "aliases": [
+      "cleaning products supplier",
+      "sanitation supplier"
+    ]
+  },
+  {
+    "mcc": "4011",
+    "industry": "Railroads",
+    "category": "Transportation",
+    "description": "Railroad companies providing freight and passenger rail transport.",
+    "keywords": [
+      "railroad",
+      "train",
+      "rail transport",
+      "freight rail",
+      "railway"
+    ],
+    "aliases": [
+      "railway",
+      "rail company",
+      "train service"
+    ]
+  },
+  {
+    "mcc": "4111",
+    "industry": "Local and Suburban Commuter Transportation",
+    "category": "Transportation",
+    "description": "Local and suburban commuter passenger transportation services.",
+    "keywords": [
+      "commuter transport",
+      "local transit",
+      "suburban transport",
+      "ferries",
+      "passenger transport"
+    ],
+    "aliases": [
+      "commuter rail",
+      "local transportation",
+      "transit service"
+    ]
+  },
+  {
+    "mcc": "4112",
+    "industry": "Passenger Railways",
+    "category": "Transportation",
+    "description": "Passenger railway and intercity rail travel services.",
+    "keywords": [
+      "passenger railway",
+      "train travel",
+      "intercity rail",
+      "rail passenger",
+      "train ticket"
+    ],
+    "aliases": [
+      "passenger rail",
+      "train service"
+    ]
+  },
+  {
+    "mcc": "4119",
+    "industry": "Ambulance Services",
+    "category": "Healthcare",
+    "description": "Emergency and non-emergency ambulance transport services.",
+    "keywords": [
+      "ambulance",
+      "emergency medical transport",
+      "ems",
+      "patient transport",
+      "medical transport"
+    ],
+    "aliases": [
+      "ambulance service",
+      "ems provider"
+    ]
+  },
+  {
+    "mcc": "4121",
+    "industry": "Taxicabs and Limousines",
+    "category": "Transportation",
+    "description": "Taxi and limousine passenger transportation services.",
+    "keywords": [
+      "taxi",
+      "cab",
+      "limousine",
+      "ride service",
+      "car service"
+    ],
+    "aliases": [
+      "taxicab",
+      "taxi service",
+      "limo",
+      "limo service",
+      "cab service"
+    ]
+  },
+  {
+    "mcc": "4131",
+    "industry": "Bus Lines",
+    "category": "Transportation",
+    "description": "Intercity and charter bus passenger transportation services.",
+    "keywords": [
+      "bus line",
+      "bus travel",
+      "coach service",
+      "charter bus",
+      "intercity bus"
+    ],
+    "aliases": [
+      "bus company",
+      "bus service",
+      "coach line"
+    ]
+  },
+  {
+    "mcc": "4214",
+    "industry": "Motor Freight Carriers and Trucking",
+    "category": "Logistics",
+    "description": "Trucking companies providing motor freight and local delivery services.",
+    "keywords": [
+      "trucking",
+      "freight carrier",
+      "moving company",
+      "hauling",
+      "cartage"
+    ],
+    "aliases": [
+      "freight company",
+      "trucking company",
+      "moving services"
+    ]
+  },
+  {
+    "mcc": "4215",
+    "industry": "Courier Services",
+    "category": "Logistics",
+    "description": "Air and ground courier and small package delivery services.",
+    "keywords": [
+      "courier",
+      "package delivery",
+      "parcel service",
+      "express delivery",
+      "shipping courier"
+    ],
+    "aliases": [
+      "courier service",
+      "delivery service",
+      "parcel courier"
+    ]
+  },
+  {
+    "mcc": "4225",
+    "industry": "Public Warehousing and Storage",
+    "category": "Logistics",
+    "description": "Public warehousing, storage and self-storage facility services.",
+    "keywords": [
+      "warehousing",
+      "storage facility",
+      "self storage",
+      "cold storage",
+      "distribution warehouse"
+    ],
+    "aliases": [
+      "warehouse",
+      "storage services",
+      "self-storage facility"
+    ]
+  },
+  {
+    "mcc": "4411",
+    "industry": "Cruise Lines",
+    "category": "Travel",
+    "description": "Passenger cruise line and ocean voyage transportation services.",
+    "keywords": [
+      "cruise line",
+      "cruise ship",
+      "ocean cruise",
+      "cruise travel",
+      "sea voyage"
+    ],
+    "aliases": [
+      "cruise operator",
+      "cruise company"
+    ]
+  },
+  {
+    "mcc": "4457",
+    "industry": "Boat Rentals and Leasing",
+    "category": "Travel",
+    "description": "Rental and leasing of boats and watercraft.",
+    "keywords": [
+      "boat rental",
+      "watercraft rental",
+      "boat leasing",
+      "yacht rental",
+      "boat charter"
+    ],
+    "aliases": [
+      "boat hire",
+      "watercraft leasing"
+    ]
+  },
+  {
+    "mcc": "4468",
+    "industry": "Marinas, Marine Service and Supplies",
+    "category": "Retail",
+    "description": "Marinas and marine service providers supplying boating equipment and services.",
+    "keywords": [
+      "marina",
+      "boat dock",
+      "marine supplies",
+      "boat service",
+      "harbor"
+    ],
+    "aliases": [
+      "marina services",
+      "boat marina"
+    ]
+  },
+  {
+    "mcc": "4511",
+    "industry": "Airlines and Air Carriers",
+    "category": "Travel",
+    "description": "Commercial airlines and air carrier passenger transportation services.",
+    "keywords": [
+      "airline",
+      "air travel",
+      "flight",
+      "air carrier",
+      "plane ticket"
+    ],
+    "aliases": [
+      "airline company",
+      "air carrier",
+      "flight service"
+    ]
+  },
+  {
+    "mcc": "4582",
+    "industry": "Airports, Flying Fields and Airport Terminals",
+    "category": "Travel",
+    "description": "Airport terminal operations and flying field services.",
+    "keywords": [
+      "airport",
+      "terminal",
+      "flying field",
+      "airport services",
+      "aviation facility"
+    ],
+    "aliases": [
+      "airport terminal",
+      "airfield"
+    ]
+  },
+  {
+    "mcc": "4722",
+    "industry": "Travel Agencies and Tour Operators",
+    "category": "Travel",
+    "description": "Travel agencies and tour operators arranging trips and bookings.",
+    "keywords": [
+      "travel agency",
+      "tour operator",
+      "trip booking",
+      "vacation planner",
+      "travel booking"
+    ],
+    "aliases": [
+      "travel agent",
+      "tour company",
+      "travel operator"
+    ]
+  },
+  {
+    "mcc": "4784",
+    "industry": "Tolls and Bridge Fees",
+    "category": "Transportation",
+    "description": "Toll road and bridge crossing fee collection services.",
+    "keywords": [
+      "toll",
+      "bridge fee",
+      "toll road",
+      "highway toll",
+      "turnpike"
+    ],
+    "aliases": [
+      "toll fee",
+      "bridge toll",
+      "toll booth"
+    ]
+  },
+  {
+    "mcc": "4789",
+    "industry": "Transportation Services",
+    "category": "Transportation",
+    "description": "Miscellaneous transportation services not otherwise classified.",
+    "keywords": [
+      "transportation service",
+      "transit",
+      "freight service",
+      "shipping service",
+      "travel service"
+    ],
+    "aliases": [
+      "transport services",
+      "misc transportation"
+    ]
+  },
+  {
+    "mcc": "4812",
+    "industry": "Telecommunication Equipment and Sales",
+    "category": "Telecommunications",
+    "description": "Retailers of telecommunication and telephone equipment.",
+    "keywords": [
+      "phone equipment",
+      "telecom hardware",
+      "telephone sales",
+      "mobile device store",
+      "communication equipment"
+    ],
+    "aliases": [
+      "telecom equipment store",
+      "phone store"
+    ]
+  },
+  {
+    "mcc": "4814",
+    "industry": "Telecommunication Services",
+    "category": "Telecommunications",
+    "description": "Telephone and telecommunications service providers, including calling services.",
+    "keywords": [
+      "phone service",
+      "telecom provider",
+      "telephone company",
+      "calling service",
+      "voip"
+    ],
+    "aliases": [
+      "telecom services",
+      "telephone service",
+      "phone carrier"
+    ]
+  },
+  {
+    "mcc": "4815",
+    "industry": "Monthly Summary Telephone Charges",
+    "category": "Telecommunications",
+    "description": "Monthly summary billing for telephone services.",
+    "keywords": [
+      "phone bill",
+      "telephone billing",
+      "monthly phone charge",
+      "telecom billing",
+      "phone statement"
+    ],
+    "aliases": [
+      "telephone bill",
+      "phone charges"
+    ]
+  },
+  {
+    "mcc": "4816",
+    "industry": "Computer Network and Information Services",
+    "category": "Digital Services",
+    "description": "Computer network services, online information and data services.",
+    "keywords": [
+      "network services",
+      "online services",
+      "information services",
+      "data services",
+      "internet provider"
+    ],
+    "aliases": [
+      "network service provider",
+      "online info services"
+    ]
+  },
+  {
+    "mcc": "4821",
+    "industry": "Telegraph Services",
+    "category": "Telecommunications",
+    "description": "Telegraph and cable message transmission services.",
+    "keywords": [
+      "telegraph",
+      "cable message",
+      "wire service",
+      "telegram",
+      "message transmission"
+    ],
+    "aliases": [
+      "telegraph service",
+      "telegram service"
+    ]
+  },
+  {
+    "mcc": "4829",
+    "industry": "Money Transfer",
+    "category": "Financial Services",
+    "description": "Wire transfer and money remittance services.",
+    "keywords": [
+      "money transfer",
+      "wire transfer",
+      "remittance",
+      "money order",
+      "funds transfer"
+    ],
+    "aliases": [
+      "money transfer service",
+      "remittance service",
+      "wire service"
+    ]
+  },
+  {
+    "mcc": "4899",
+    "industry": "Cable, Satellite and Other Pay Television Services",
+    "category": "Telecommunications",
+    "description": "Cable, satellite and streaming pay television service providers.",
+    "keywords": [
+      "cable tv",
+      "satellite tv",
+      "pay television",
+      "streaming service",
+      "tv subscription"
+    ],
+    "aliases": [
+      "cable provider",
+      "satellite provider",
+      "pay tv"
+    ]
+  },
+  {
+    "mcc": "4900",
+    "industry": "Utilities",
+    "category": "Utilities",
+    "description": "Electric, gas, water, sanitary and other utility service providers.",
+    "keywords": [
+      "utility",
+      "electric company",
+      "water utility",
+      "gas utility",
+      "power company"
+    ],
+    "aliases": [
+      "utility company",
+      "utilities provider",
+      "power utility"
+    ]
+  },
+  {
+    "mcc": "5013",
+    "industry": "Motor Vehicle Supplies and New Parts",
+    "category": "Automotive",
+    "description": "Wholesale suppliers of new motor vehicle parts and supplies.",
+    "keywords": [
+      "auto parts wholesale",
+      "vehicle supplies",
+      "new parts distributor",
+      "car parts supplier",
+      "automotive wholesale"
+    ],
+    "aliases": [
+      "auto parts supplier",
+      "vehicle parts wholesaler"
+    ]
+  },
+  {
+    "mcc": "5021",
+    "industry": "Office and Commercial Furniture",
+    "category": "Retail",
+    "description": "Retailers of office and commercial furniture.",
+    "keywords": [
+      "office furniture",
+      "commercial furniture",
+      "desk supplier",
+      "workplace furniture",
+      "furniture dealer"
+    ],
+    "aliases": [
+      "office furniture store",
+      "commercial furniture dealer"
+    ]
+  },
+  {
+    "mcc": "5039",
+    "industry": "Construction Materials",
+    "category": "Retail",
+    "description": "Wholesale suppliers of construction materials.",
+    "keywords": [
+      "construction materials",
+      "building supplies wholesale",
+      "raw materials",
+      "construction supply",
+      "building materials"
+    ],
+    "aliases": [
+      "construction supplier",
+      "building materials wholesaler"
+    ]
+  },
+  {
+    "mcc": "5044",
+    "industry": "Photographic, Photocopy and Microfilm Equipment",
+    "category": "Electronics",
+    "description": "Retailers of photographic, photocopy and microfilm equipment.",
+    "keywords": [
+      "camera equipment",
+      "photocopier",
+      "microfilm equipment",
+      "photo equipment dealer",
+      "imaging equipment"
+    ],
+    "aliases": [
+      "photo equipment store",
+      "copier dealer"
+    ]
+  },
+  {
+    "mcc": "5045",
+    "industry": "Computers, Peripherals and Software",
+    "category": "Electronics",
+    "description": "Retailers of computers, peripherals and computer software.",
+    "keywords": [
+      "computer store",
+      "laptop retailer",
+      "software dealer",
+      "peripherals",
+      "pc store"
+    ],
+    "aliases": [
+      "computer retailer",
+      "electronics computer store"
+    ]
+  },
+  {
+    "mcc": "5046",
+    "industry": "Commercial Equipment",
+    "category": "Retail",
+    "description": "Retailers of commercial and industrial equipment not otherwise classified.",
+    "keywords": [
+      "commercial equipment",
+      "industrial equipment dealer",
+      "business equipment",
+      "equipment retailer",
+      "machinery dealer"
+    ],
+    "aliases": [
+      "commercial equipment store"
+    ]
+  },
+  {
+    "mcc": "5047",
+    "industry": "Medical, Dental and Ophthalmic Equipment",
+    "category": "Healthcare",
+    "description": "Retailers and suppliers of medical, dental and ophthalmic equipment.",
+    "keywords": [
+      "medical equipment",
+      "dental equipment",
+      "ophthalmic equipment",
+      "surgical supplies",
+      "clinical equipment"
+    ],
+    "aliases": [
+      "medical supply store",
+      "medical equipment dealer"
+    ]
+  },
+  {
+    "mcc": "5051",
+    "industry": "Metal Service Centers and Offices",
+    "category": "Manufacturing",
+    "description": "Metal service centers distributing processed metal products.",
+    "keywords": [
+      "metal supplier",
+      "steel distributor",
+      "metal service center",
+      "metal fabrication supply",
+      "metal wholesaler"
+    ],
+    "aliases": [
+      "metal distributor",
+      "steel service center"
+    ]
+  },
+  {
+    "mcc": "5065",
+    "industry": "Electrical Parts and Equipment",
+    "category": "Retail",
+    "description": "Wholesale and retail suppliers of electrical parts and equipment.",
+    "keywords": [
+      "electrical parts",
+      "electrical supplies",
+      "electrical equipment dealer",
+      "wiring supplies",
+      "electrical wholesaler"
+    ],
+    "aliases": [
+      "electrical supply store",
+      "electrical parts dealer"
+    ]
+  },
+  {
+    "mcc": "5072",
+    "industry": "Hardware Equipment and Supplies",
+    "category": "Retail",
+    "description": "Wholesale distributors of hardware equipment and supplies.",
+    "keywords": [
+      "hardware supplies",
+      "tools wholesale",
+      "hardware distributor",
+      "industrial hardware",
+      "fasteners supplier"
+    ],
+    "aliases": [
+      "hardware wholesaler",
+      "hardware supplier"
+    ]
+  },
+  {
+    "mcc": "5074",
+    "industry": "Plumbing and Heating Equipment and Supplies",
+    "category": "Retail",
+    "description": "Wholesale distributors of plumbing and heating equipment.",
+    "keywords": [
+      "plumbing supplies",
+      "heating equipment",
+      "pipe fittings",
+      "hvac supplies",
+      "plumbing wholesaler"
+    ],
+    "aliases": [
+      "plumbing supplier",
+      "heating supply store"
+    ]
+  },
+  {
+    "mcc": "5085",
+    "industry": "Industrial Supplies",
+    "category": "Retail",
+    "description": "Wholesale distributors of general industrial supplies.",
+    "keywords": [
+      "industrial supplies",
+      "factory supplies",
+      "industrial equipment",
+      "manufacturing supplies",
+      "mro supplies"
+    ],
+    "aliases": [
+      "industrial supplier",
+      "industrial distributor"
+    ]
+  },
+  {
+    "mcc": "5094",
+    "industry": "Precious Stones, Metals, Watches and Jewelry - Wholesale",
+    "category": "Jewelry",
+    "description": "Wholesale dealers of precious stones, metals, watches and jewelry.",
+    "keywords": [
+      "jewelry wholesale",
+      "precious metals",
+      "gemstone dealer",
+      "watch wholesaler",
+      "bullion dealer"
+    ],
+    "aliases": [
+      "jewelry wholesaler",
+      "precious stones dealer"
+    ]
+  },
+  {
+    "mcc": "5099",
+    "industry": "Durable Goods",
+    "category": "Wholesale",
+    "description": "Wholesale distributors of durable goods not otherwise classified.",
+    "keywords": [
+      "durable goods wholesale",
+      "general wholesale",
+      "goods distributor",
+      "wholesale supplier",
+      "bulk goods"
+    ],
+    "aliases": [
+      "durable goods distributor"
+    ]
+  },
+  {
+    "mcc": "5111",
+    "industry": "Stationery, Office Supplies and Printing/Writing Paper",
+    "category": "Retail",
+    "description": "Wholesale and retail suppliers of stationery and office paper products.",
+    "keywords": [
+      "stationery",
+      "office supplies",
+      "paper products",
+      "writing paper",
+      "office stationery"
+    ],
+    "aliases": [
+      "stationery store",
+      "office supply store"
+    ]
+  },
+  {
+    "mcc": "5122",
+    "industry": "Drugs, Drug Proprietaries and Druggist Sundries",
+    "category": "Wholesale",
+    "description": "Wholesale distributors of pharmaceuticals and druggist sundries.",
+    "keywords": [
+      "pharmaceutical wholesale",
+      "drug distributor",
+      "medicine wholesale",
+      "druggist supplies",
+      "pharma distributor"
+    ],
+    "aliases": [
+      "drug wholesaler",
+      "pharmaceutical distributor"
+    ]
+  },
+  {
+    "mcc": "5131",
+    "industry": "Piece Goods, Notions and Other Dry Goods",
+    "category": "Wholesale",
+    "description": "Wholesale dealers of fabric, notions and dry goods.",
+    "keywords": [
+      "fabric wholesale",
+      "dry goods",
+      "notions",
+      "textile wholesaler",
+      "piece goods"
+    ],
+    "aliases": [
+      "fabric distributor",
+      "textile wholesale"
+    ]
+  },
+  {
+    "mcc": "5137",
+    "industry": "Men's, Women's and Children's Uniforms and Commercial Clothing",
+    "category": "Wholesale",
+    "description": "Wholesale suppliers of uniforms and commercial clothing.",
+    "keywords": [
+      "uniform supplier",
+      "commercial clothing",
+      "workwear wholesale",
+      "uniform wholesaler",
+      "staff uniforms"
+    ],
+    "aliases": [
+      "uniform distributor",
+      "workwear supplier"
+    ]
+  },
+  {
+    "mcc": "5139",
+    "industry": "Commercial Footwear",
+    "category": "Wholesale",
+    "description": "Wholesale suppliers of commercial and work footwear.",
+    "keywords": [
+      "footwear wholesale",
+      "work boots supplier",
+      "shoe distributor",
+      "commercial shoes",
+      "boot wholesaler"
+    ],
+    "aliases": [
+      "footwear distributor",
+      "shoe wholesaler"
+    ]
+  },
+  {
+    "mcc": "5169",
+    "industry": "Chemicals and Allied Products",
+    "category": "Manufacturing",
+    "description": "Wholesale distributors of chemicals and allied industrial products.",
+    "keywords": [
+      "chemical supplier",
+      "industrial chemicals",
+      "chemical distributor",
+      "allied products",
+      "chemical wholesale"
+    ],
+    "aliases": [
+      "chemicals distributor",
+      "chemical wholesaler"
+    ]
+  },
+  {
+    "mcc": "5172",
+    "industry": "Petroleum and Petroleum Products",
+    "category": "Fuel",
+    "description": "Wholesale distributors of petroleum and petroleum products.",
+    "keywords": [
+      "petroleum distributor",
+      "fuel wholesale",
+      "oil supplier",
+      "petroleum products",
+      "bulk fuel"
+    ],
+    "aliases": [
+      "petroleum wholesaler",
+      "fuel distributor"
+    ]
+  },
+  {
+    "mcc": "5192",
+    "industry": "Books, Periodicals and Newspapers",
+    "category": "Wholesale",
+    "description": "Wholesale distributors of books, periodicals and newspapers.",
+    "keywords": [
+      "book wholesale",
+      "periodical distributor",
+      "newspaper distribution",
+      "publication wholesaler",
+      "print media distributor"
+    ],
+    "aliases": [
+      "book distributor",
+      "periodicals wholesaler"
+    ]
+  },
+  {
+    "mcc": "5193",
+    "industry": "Florists Supplies, Nursery Stock and Flowers",
+    "category": "Wholesale",
+    "description": "Wholesale suppliers of florist supplies and nursery stock.",
+    "keywords": [
+      "florist supplies",
+      "nursery stock",
+      "wholesale flowers",
+      "plant wholesaler",
+      "floral supply"
+    ],
+    "aliases": [
+      "florist wholesaler",
+      "nursery supplier"
+    ]
+  },
+  {
+    "mcc": "5198",
+    "industry": "Paints, Varnishes and Supplies",
+    "category": "Wholesale",
+    "description": "Wholesale distributors of paints, varnishes and related supplies.",
+    "keywords": [
+      "paint wholesale",
+      "varnish supplier",
+      "coatings distributor",
+      "paint supplies",
+      "industrial paint"
+    ],
+    "aliases": [
+      "paint distributor",
+      "coatings supplier"
+    ]
+  },
+  {
+    "mcc": "5199",
+    "industry": "Nondurable Goods",
+    "category": "Wholesale",
+    "description": "Wholesale distributors of nondurable goods not otherwise classified.",
+    "keywords": [
+      "nondurable goods",
+      "consumable goods wholesale",
+      "general merchandise wholesale",
+      "goods distributor",
+      "bulk supplies"
+    ],
+    "aliases": [
+      "nondurable goods distributor"
+    ]
+  },
+  {
+    "mcc": "5200",
+    "industry": "Home Supply Warehouse Stores",
+    "category": "Home Improvement",
+    "description": "Warehouse-format stores selling home improvement and building supplies.",
+    "keywords": [
+      "home improvement warehouse",
+      "building supply store",
+      "hardware warehouse",
+      "home supply store",
+      "diy warehouse"
+    ],
+    "aliases": [
+      "home improvement store",
+      "building supply warehouse"
+    ]
+  },
+  {
+    "mcc": "5211",
+    "industry": "Lumber and Building Materials Stores",
+    "category": "Home Improvement",
+    "description": "Retailers of lumber and general building materials.",
+    "keywords": [
+      "lumber yard",
+      "building materials store",
+      "timber supplier",
+      "construction materials retail",
+      "lumber dealer"
+    ],
+    "aliases": [
+      "lumber store",
+      "building supply store"
+    ]
+  },
+  {
+    "mcc": "5231",
+    "industry": "Glass, Paint and Wallpaper Stores",
+    "category": "Home Improvement",
+    "description": "Retailers of glass, paint and wallpaper products.",
+    "keywords": [
+      "paint store",
+      "wallpaper store",
+      "glass supplier",
+      "home decor store",
+      "wall coverings"
+    ],
+    "aliases": [
+      "glass and paint store",
+      "paint and wallpaper shop"
+    ]
+  },
+  {
+    "mcc": "5251",
+    "industry": "Hardware Stores",
+    "category": "Home Improvement",
+    "description": "Retail hardware stores selling tools and home repair supplies.",
+    "keywords": [
+      "hardware store",
+      "tool shop",
+      "home repair supplies",
+      "diy store",
+      "fasteners"
+    ],
+    "aliases": [
+      "hardware shop",
+      "tool store"
+    ]
+  },
+  {
+    "mcc": "5261",
+    "industry": "Nurseries and Lawn and Garden Supply Stores",
+    "category": "Retail",
+    "description": "Retailers of nursery plants and lawn and garden supplies.",
+    "keywords": [
+      "garden center",
+      "nursery",
+      "lawn supplies",
+      "plant nursery",
+      "garden store"
+    ],
+    "aliases": [
+      "garden centre",
+      "nursery store",
+      "lawn and garden shop"
+    ]
+  },
+  {
+    "mcc": "5271",
+    "industry": "Mobile Home Dealers",
+    "category": "Retail",
+    "description": "Dealers selling mobile and manufactured homes.",
+    "keywords": [
+      "mobile home dealer",
+      "manufactured home",
+      "modular home sales",
+      "trailer home dealer",
+      "mobile home sales"
+    ],
+    "aliases": [
+      "mobile home sales",
+      "manufactured housing dealer"
+    ]
+  },
+  {
+    "mcc": "5300",
+    "industry": "Wholesale Clubs",
+    "category": "Retail",
+    "description": "Membership-based wholesale club retailers.",
+    "keywords": [
+      "wholesale club",
+      "membership warehouse",
+      "bulk retailer",
+      "warehouse club",
+      "bulk shopping"
+    ],
+    "aliases": [
+      "wholesale club store",
+      "warehouse club store"
+    ]
+  },
+  {
+    "mcc": "5309",
+    "industry": "Duty Free Stores",
+    "category": "Retail",
+    "description": "Duty-free retail stores at airports and border crossings.",
+    "keywords": [
+      "duty free",
+      "tax free shopping",
+      "airport shopping",
+      "duty free shop",
+      "border shop"
+    ],
+    "aliases": [
+      "duty-free store",
+      "duty free retailer"
+    ]
+  },
+  {
+    "mcc": "5310",
+    "industry": "Discount Stores",
+    "category": "Retail",
+    "description": "General discount retail stores selling a variety of merchandise.",
+    "keywords": [
+      "discount store",
+      "budget retailer",
+      "discount shopping",
+      "value store",
+      "low price retailer"
+    ],
+    "aliases": [
+      "discount retailer",
+      "discount shop"
+    ]
+  },
+  {
+    "mcc": "5311",
+    "industry": "Department Stores",
+    "category": "Retail",
+    "description": "Large retail stores selling a wide range of merchandise categories.",
+    "keywords": [
+      "department store",
+      "general retailer",
+      "multi-category store",
+      "big box retail",
+      "department retailer"
+    ],
+    "aliases": [
+      "department stores",
+      "dept store"
+    ]
+  },
+  {
+    "mcc": "5331",
+    "industry": "Variety Stores",
+    "category": "Retail",
+    "description": "General merchandise variety stores selling low-cost goods.",
+    "keywords": [
+      "variety store",
+      "five and dime",
+      "general store",
+      "dollar store",
+      "discount variety"
+    ],
+    "aliases": [
+      "variety shop",
+      "five-and-dime store"
+    ]
+  },
+  {
+    "mcc": "5399",
+    "industry": "Miscellaneous General Merchandise",
+    "category": "Retail",
+    "description": "General merchandise retail stores not otherwise classified.",
+    "keywords": [
+      "general merchandise",
+      "misc retail",
+      "general store",
+      "mixed goods retailer",
+      "variety retail"
+    ],
+    "aliases": [
+      "general merchandise store"
+    ]
+  },
+  {
+    "mcc": "5411",
+    "industry": "Grocery Stores and Supermarkets",
+    "category": "Retail",
+    "description": "Grocery stores and supermarkets selling food and household items.",
+    "keywords": [
+      "grocery store",
+      "supermarket",
+      "food market",
+      "grocer",
+      "market"
+    ],
+    "aliases": [
+      "grocery",
+      "supermarkets",
+      "grocery shop"
+    ]
+  },
+  {
+    "mcc": "5422",
+    "industry": "Freezer and Locker Meat Provisioners",
+    "category": "Retail",
+    "description": "Meat provisioners and freezer locker plants selling bulk meat.",
+    "keywords": [
+      "meat locker",
+      "freezer provisioner",
+      "bulk meat",
+      "meat market",
+      "meat plant"
+    ],
+    "aliases": [
+      "meat provisioner",
+      "meat locker service"
+    ]
+  },
+  {
+    "mcc": "5441",
+    "industry": "Candy, Nut and Confectionery Stores",
+    "category": "Retail",
+    "description": "Retailers of candy, nuts and confectionery products.",
+    "keywords": [
+      "candy store",
+      "confectionery",
+      "sweet shop",
+      "nut shop",
+      "chocolate store"
+    ],
+    "aliases": [
+      "candy shop",
+      "confectionery store"
+    ]
+  },
+  {
+    "mcc": "5451",
+    "industry": "Dairy Products Stores",
+    "category": "Retail",
+    "description": "Retailers specializing in dairy products.",
+    "keywords": [
+      "dairy store",
+      "milk shop",
+      "cheese store",
+      "dairy products retailer",
+      "creamery"
+    ],
+    "aliases": [
+      "dairy shop",
+      "dairy products store"
+    ]
+  },
+  {
+    "mcc": "5462",
+    "industry": "Bakeries",
+    "category": "Food & Beverage",
+    "description": "Bakeries selling bread, pastries and baked goods.",
+    "keywords": [
+      "bakery",
+      "pastry shop",
+      "bread shop",
+      "baked goods",
+      "patisserie"
+    ],
+    "aliases": [
+      "bakeries",
+      "baker",
+      "bakeshop"
+    ]
+  },
+  {
+    "mcc": "5499",
+    "industry": "Miscellaneous Food Stores",
+    "category": "Retail",
+    "description": "Specialty and convenience food stores not otherwise classified.",
+    "keywords": [
+      "specialty food store",
+      "convenience store",
+      "food shop",
+      "gourmet market",
+      "food retailer"
+    ],
+    "aliases": [
+      "convenience store",
+      "food store"
+    ]
+  },
+  {
+    "mcc": "5511",
+    "industry": "Car and Truck Dealers - New and Used",
+    "category": "Automotive",
+    "description": "Dealerships selling new and used cars and trucks.",
+    "keywords": [
+      "car dealership",
+      "auto dealer",
+      "new car sales",
+      "used car dealer",
+      "truck dealer"
+    ],
+    "aliases": [
+      "car dealer",
+      "auto dealership",
+      "vehicle dealer"
+    ]
+  },
+  {
+    "mcc": "5521",
+    "industry": "Car and Truck Dealers - Used Only",
+    "category": "Automotive",
+    "description": "Dealerships selling used cars and trucks exclusively.",
+    "keywords": [
+      "used car dealer",
+      "pre-owned vehicles",
+      "secondhand car dealer",
+      "used auto sales",
+      "used truck dealer"
+    ],
+    "aliases": [
+      "used car dealership",
+      "pre-owned car dealer"
+    ]
+  },
+  {
+    "mcc": "5531",
+    "industry": "Auto and Home Supply Stores",
+    "category": "Automotive",
+    "description": "Retailers of automotive and home supply products.",
+    "keywords": [
+      "auto supply store",
+      "car accessories shop",
+      "home and auto store",
+      "automotive retail",
+      "car parts shop"
+    ],
+    "aliases": [
+      "auto and home store",
+      "automotive supply retailer"
+    ]
+  },
+  {
+    "mcc": "5532",
+    "industry": "Automotive Tire Stores",
+    "category": "Automotive",
+    "description": "Retailers specializing in automotive tires.",
+    "keywords": [
+      "tire shop",
+      "tire store",
+      "tire dealer",
+      "tire retailer",
+      "wheel and tire"
+    ],
+    "aliases": [
+      "tire shop",
+      "tyre store"
+    ]
+  },
+  {
+    "mcc": "5533",
+    "industry": "Automotive Parts and Accessories Stores",
+    "category": "Automotive",
+    "description": "Retailers of automotive parts and accessories.",
+    "keywords": [
+      "auto parts store",
+      "car accessories",
+      "vehicle parts retailer",
+      "automotive accessories",
+      "parts shop"
+    ],
+    "aliases": [
+      "auto parts shop",
+      "car parts store"
+    ]
+  },
+  {
+    "mcc": "5541",
+    "industry": "Service Stations",
+    "category": "Fuel",
+    "description": "Fuel service stations selling gasoline with attendant service.",
+    "keywords": [
+      "gas station",
+      "fuel station",
+      "petrol station",
+      "service station",
+      "filling station"
+    ],
+    "aliases": [
+      "gas station",
+      "petrol pump",
+      "fuel pump"
+    ]
+  },
+  {
+    "mcc": "5542",
+    "industry": "Automated Fuel Dispensers",
+    "category": "Fuel",
+    "description": "Self-service automated fuel dispensing stations.",
+    "keywords": [
+      "automated fuel",
+      "self service gas",
+      "fuel pump",
+      "automated pump",
+      "unmanned fuel station"
+    ],
+    "aliases": [
+      "automated fuel dispenser",
+      "self-serve gas station"
+    ]
+  },
+  {
+    "mcc": "5551",
+    "industry": "Boat Dealers",
+    "category": "Automotive",
+    "description": "Dealerships selling boats and watercraft.",
+    "keywords": [
+      "boat dealer",
+      "watercraft sales",
+      "yacht dealer",
+      "boat sales",
+      "marine dealer"
+    ],
+    "aliases": [
+      "boat dealership",
+      "watercraft dealer"
+    ]
+  },
+  {
+    "mcc": "5561",
+    "industry": "Camper, Recreational and Utility Trailer Dealers",
+    "category": "Automotive",
+    "description": "Dealerships selling campers, recreational and utility trailers.",
+    "keywords": [
+      "camper dealer",
+      "trailer dealer",
+      "rv trailer sales",
+      "utility trailer",
+      "recreational trailer"
+    ],
+    "aliases": [
+      "camper dealership",
+      "trailer sales"
+    ]
+  },
+  {
+    "mcc": "5571",
+    "industry": "Motorcycle Shops and Dealers",
+    "category": "Automotive",
+    "description": "Dealerships and shops selling motorcycles and related parts.",
+    "keywords": [
+      "motorcycle dealer",
+      "motorbike shop",
+      "motorcycle sales",
+      "bike dealer",
+      "motorcycle store"
+    ],
+    "aliases": [
+      "motorcycle dealership",
+      "motorbike dealer"
+    ]
+  },
+  {
+    "mcc": "5592",
+    "industry": "Motor Home Dealers",
+    "category": "Automotive",
+    "description": "Dealerships selling motor homes and recreational vehicles.",
+    "keywords": [
+      "motor home dealer",
+      "rv dealer",
+      "recreational vehicle sales",
+      "motorhome sales",
+      "rv dealership"
+    ],
+    "aliases": [
+      "rv dealer",
+      "motorhome dealer"
+    ]
+  },
+  {
+    "mcc": "5598",
+    "industry": "Snowmobile Dealers",
+    "category": "Automotive",
+    "description": "Dealerships selling snowmobiles.",
+    "keywords": [
+      "snowmobile dealer",
+      "snowmobile sales",
+      "winter vehicle dealer",
+      "snow vehicle shop",
+      "snowmobile shop"
+    ],
+    "aliases": [
+      "snowmobile dealership"
+    ]
+  },
+  {
+    "mcc": "5599",
+    "industry": "Miscellaneous Auto Dealers",
+    "category": "Automotive",
+    "description": "Automotive dealers not otherwise classified.",
+    "keywords": [
+      "auto dealer misc",
+      "specialty vehicle dealer",
+      "vehicle sales",
+      "misc auto sales",
+      "specialty auto dealer"
+    ],
+    "aliases": [
+      "miscellaneous vehicle dealer"
+    ]
+  },
+  {
+    "mcc": "5611",
+    "industry": "Men's and Boys' Clothing and Accessories",
+    "category": "Clothing",
+    "description": "Retailers of men's and boys' clothing and accessories.",
+    "keywords": [
+      "men's clothing",
+      "boys clothing",
+      "menswear store",
+      "men's apparel",
+      "men's fashion"
+    ],
+    "aliases": [
+      "menswear",
+      "men's clothing store"
+    ]
+  },
+  {
+    "mcc": "5621",
+    "industry": "Women's Ready-to-Wear Stores",
+    "category": "Clothing",
+    "description": "Retailers of women's ready-to-wear clothing.",
+    "keywords": [
+      "women's clothing",
+      "ladies apparel",
+      "women's fashion",
+      "ready to wear",
+      "women's boutique"
+    ],
+    "aliases": [
+      "women's apparel store",
+      "ladieswear"
+    ]
+  },
+  {
+    "mcc": "5631",
+    "industry": "Women's Accessory and Specialty Stores",
+    "category": "Clothing",
+    "description": "Retailers of women's accessories and specialty apparel.",
+    "keywords": [
+      "women's accessories",
+      "specialty clothing store",
+      "handbags",
+      "women's boutique",
+      "fashion accessories"
+    ],
+    "aliases": [
+      "women's accessory store",
+      "ladies accessories"
+    ]
+  },
+  {
+    "mcc": "5641",
+    "industry": "Children's and Infants' Wear Stores",
+    "category": "Clothing",
+    "description": "Retailers of children's and infants' clothing.",
+    "keywords": [
+      "children's clothing",
+      "baby clothes",
+      "kids apparel",
+      "infant wear",
+      "kids clothing store"
+    ],
+    "aliases": [
+      "kids clothing store",
+      "children's wear"
+    ]
+  },
+  {
+    "mcc": "5651",
+    "industry": "Family Clothing Stores",
+    "category": "Clothing",
+    "description": "Retailers selling clothing for the entire family.",
+    "keywords": [
+      "family clothing",
+      "apparel store",
+      "clothing shop",
+      "fashion retailer",
+      "clothes store"
+    ],
+    "aliases": [
+      "family apparel store",
+      "clothing store"
+    ]
+  },
+  {
+    "mcc": "5655",
+    "industry": "Sports and Riding Apparel Stores",
+    "category": "Clothing",
+    "description": "Retailers of sports and horseback riding apparel.",
+    "keywords": [
+      "sports apparel",
+      "athletic wear",
+      "riding apparel",
+      "activewear store",
+      "equestrian clothing"
+    ],
+    "aliases": [
+      "sportswear store",
+      "athletic apparel shop"
+    ]
+  },
+  {
+    "mcc": "5661",
+    "industry": "Shoe Stores",
+    "category": "Clothing",
+    "description": "Retailers of footwear for men, women and children.",
+    "keywords": [
+      "shoe store",
+      "footwear shop",
+      "sneaker store",
+      "shoe retailer",
+      "boot shop"
+    ],
+    "aliases": [
+      "shoe shop",
+      "footwear store"
+    ]
+  },
+  {
+    "mcc": "5681",
+    "industry": "Furriers and Fur Shops",
+    "category": "Clothing",
+    "description": "Retailers selling fur clothing and fur products.",
+    "keywords": [
+      "fur shop",
+      "furrier",
+      "fur coat retailer",
+      "fur clothing",
+      "fur store"
+    ],
+    "aliases": [
+      "fur boutique",
+      "furrier shop"
+    ]
+  },
+  {
+    "mcc": "5691",
+    "industry": "Men's and Women's Clothing Stores",
+    "category": "Clothing",
+    "description": "Retailers selling clothing for both men and women.",
+    "keywords": [
+      "clothing store",
+      "apparel shop",
+      "fashion store",
+      "clothes retailer",
+      "wearables shop"
+    ],
+    "aliases": [
+      "clothing boutique",
+      "apparel store"
+    ]
+  },
+  {
+    "mcc": "5697",
+    "industry": "Tailors, Seamstresses, Mending and Alterations",
+    "category": "Personal Care",
+    "description": "Tailoring, mending and clothing alteration services.",
+    "keywords": [
+      "tailor",
+      "alterations",
+      "seamstress",
+      "clothing repair",
+      "garment alterations"
+    ],
+    "aliases": [
+      "tailoring service",
+      "alteration shop"
+    ]
+  },
+  {
+    "mcc": "5698",
+    "industry": "Wig and Toupee Stores",
+    "category": "Personal Care",
+    "description": "Retailers of wigs, toupees and hairpieces.",
+    "keywords": [
+      "wig shop",
+      "hairpiece store",
+      "toupee retailer",
+      "hair extensions",
+      "wig store"
+    ],
+    "aliases": [
+      "wig store",
+      "hairpiece shop"
+    ]
+  },
+  {
+    "mcc": "5699",
+    "industry": "Miscellaneous Apparel and Accessory Stores",
+    "category": "Clothing",
+    "description": "Apparel and accessory retailers not otherwise classified.",
+    "keywords": [
+      "apparel accessories",
+      "clothing accessories store",
+      "fashion accessories retailer",
+      "misc apparel",
+      "accessory shop"
+    ],
+    "aliases": [
+      "clothing accessory store"
+    ]
+  },
+  {
+    "mcc": "5712",
+    "industry": "Furniture and Home Furnishings Stores",
+    "category": "Furniture",
+    "description": "Retailers of furniture and home furnishing products.",
+    "keywords": [
+      "furniture store",
+      "home furnishings",
+      "furniture retailer",
+      "furniture shop",
+      "home decor furniture"
+    ],
+    "aliases": [
+      "furniture shop",
+      "home furnishings store"
+    ]
+  },
+  {
+    "mcc": "5713",
+    "industry": "Floor Covering Stores",
+    "category": "Furniture",
+    "description": "Retailers of carpets, rugs and other floor coverings.",
+    "keywords": [
+      "carpet store",
+      "flooring shop",
+      "rug retailer",
+      "floor covering",
+      "tile and carpet"
+    ],
+    "aliases": [
+      "flooring store",
+      "carpet shop"
+    ]
+  },
+  {
+    "mcc": "5714",
+    "industry": "Drapery, Window Covering and Upholstery Stores",
+    "category": "Furniture",
+    "description": "Retailers of drapery, window coverings and upholstery.",
+    "keywords": [
+      "drapery store",
+      "curtain shop",
+      "window covering",
+      "upholstery retailer",
+      "blinds store"
+    ],
+    "aliases": [
+      "curtain store",
+      "window treatment shop"
+    ]
+  },
+  {
+    "mcc": "5718",
+    "industry": "Fireplace, Fireplace Screens and Accessories",
+    "category": "Home Improvement",
+    "description": "Retailers of fireplaces, fireplace screens and accessories.",
+    "keywords": [
+      "fireplace store",
+      "hearth products",
+      "fireplace accessories",
+      "stove retailer",
+      "fireplace screen"
+    ],
+    "aliases": [
+      "fireplace shop",
+      "hearth store"
+    ]
+  },
+  {
+    "mcc": "5719",
+    "industry": "Miscellaneous Home Furnishing Stores",
+    "category": "Furniture",
+    "description": "Home furnishing retailers not otherwise classified.",
+    "keywords": [
+      "home furnishings",
+      "home decor store",
+      "interior furnishings",
+      "household goods retailer",
+      "decor shop"
+    ],
+    "aliases": [
+      "home decor store",
+      "home furnishing shop"
+    ]
+  },
+  {
+    "mcc": "5722",
+    "industry": "Household Appliance Stores",
+    "category": "Electronics",
+    "description": "Retailers of household appliances.",
+    "keywords": [
+      "appliance store",
+      "home appliances",
+      "white goods retailer",
+      "kitchen appliance shop",
+      "appliance dealer"
+    ],
+    "aliases": [
+      "appliance shop",
+      "home appliance store"
+    ]
+  },
+  {
+    "mcc": "5732",
+    "industry": "Electronics Stores",
+    "category": "Electronics",
+    "description": "Retailers of consumer electronics and audio-visual equipment.",
+    "keywords": [
+      "electronics store",
+      "consumer electronics",
+      "gadget shop",
+      "av equipment retailer",
+      "tech store"
+    ],
+    "aliases": [
+      "electronics shop",
+      "electronics retailer"
+    ]
+  },
+  {
+    "mcc": "5733",
+    "industry": "Music Stores - Musical Instruments, Pianos and Sheet Music",
+    "category": "Music",
+    "description": "Retailers of musical instruments, pianos and sheet music.",
+    "keywords": [
+      "music store",
+      "musical instruments",
+      "piano shop",
+      "instrument retailer",
+      "sheet music"
+    ],
+    "aliases": [
+      "instrument store",
+      "music shop"
+    ]
+  },
+  {
+    "mcc": "5734",
+    "industry": "Computer Software Stores",
+    "category": "Digital Services",
+    "description": "Retailers of computer software.",
+    "keywords": [
+      "software store",
+      "software retailer",
+      "app software shop",
+      "program store",
+      "software vendor"
+    ],
+    "aliases": [
+      "software shop",
+      "software retailer"
+    ]
+  },
+  {
+    "mcc": "5735",
+    "industry": "Record Shops - CDs, Cassettes and Vinyl",
+    "category": "Music",
+    "description": "Retailers of music recordings including CDs and vinyl records.",
+    "keywords": [
+      "record store",
+      "music shop",
+      "vinyl records",
+      "cd store",
+      "music recordings"
+    ],
+    "aliases": [
+      "record shop",
+      "cd store",
+      "vinyl shop"
+    ]
+  },
+  {
+    "mcc": "5811",
+    "industry": "Caterers",
+    "category": "Food & Beverage",
+    "description": "Catering services providing prepared food for events.",
+    "keywords": [
+      "caterer",
+      "catering service",
+      "event catering",
+      "food catering",
+      "banquet catering"
+    ],
+    "aliases": [
+      "catering company",
+      "catering services"
+    ]
+  },
+  {
+    "mcc": "5812",
+    "industry": "Restaurants",
+    "category": "Food & Beverage",
+    "description": "Restaurants, cafes, diners and sit-down food establishments.",
+    "keywords": [
+      "restaurant",
+      "cafe",
+      "food",
+      "dining",
+      "eatery"
+    ],
+    "aliases": [
+      "restaurant",
+      "restaurants",
+      "cafe",
+      "diner"
+    ]
+  },
+  {
+    "mcc": "5813",
+    "industry": "Drinking Places (Bars, Taverns, Nightclubs)",
+    "category": "Food & Beverage",
+    "description": "Bars, taverns, nightclubs and lounges serving alcoholic beverages.",
+    "keywords": [
+      "bar",
+      "nightclub",
+      "tavern",
+      "lounge",
+      "pub"
+    ],
+    "aliases": [
+      "bars",
+      "nightclubs",
+      "pub",
+      "tavern"
+    ]
+  },
+  {
+    "mcc": "5814",
+    "industry": "Fast Food Restaurants",
+    "category": "Food & Beverage",
+    "description": "Quick-service and fast food restaurant establishments.",
+    "keywords": [
+      "fast food",
+      "quick service restaurant",
+      "drive thru",
+      "takeaway food",
+      "fast casual"
+    ],
+    "aliases": [
+      "fast food restaurant",
+      "quick service"
+    ]
+  },
+  {
+    "mcc": "5815",
+    "industry": "Digital Goods - Media",
+    "category": "Digital Services",
+    "description": "Online retailers of digital media such as music, movies and books.",
+    "keywords": [
+      "digital media",
+      "streaming purchase",
+      "digital download",
+      "online media store",
+      "ebook"
+    ],
+    "aliases": [
+      "digital media store",
+      "digital content"
+    ]
+  },
+  {
+    "mcc": "5816",
+    "industry": "Digital Goods - Games",
+    "category": "Gaming",
+    "description": "Online retailers of digital video games and gaming content.",
+    "keywords": [
+      "digital games",
+      "video game download",
+      "game purchase",
+      "online gaming store",
+      "in-game purchase"
+    ],
+    "aliases": [
+      "digital games store",
+      "game download store"
+    ]
+  },
+  {
+    "mcc": "5817",
+    "industry": "Digital Goods - Applications",
+    "category": "Digital Services",
+    "description": "Online retailers of mobile and software applications.",
+    "keywords": [
+      "app store",
+      "digital applications",
+      "software download",
+      "mobile app purchase",
+      "app marketplace"
+    ],
+    "aliases": [
+      "digital apps store",
+      "app marketplace"
+    ]
+  },
+  {
+    "mcc": "5818",
+    "industry": "Digital Goods - Multi-Category",
+    "category": "Digital Services",
+    "description": "Online retailers selling multiple categories of digital goods.",
+    "keywords": [
+      "digital goods",
+      "multi category digital store",
+      "online digital marketplace",
+      "digital content store",
+      "digital purchase"
+    ],
+    "aliases": [
+      "digital goods store",
+      "digital marketplace"
+    ]
+  },
+  {
+    "mcc": "5912",
+    "industry": "Drug Stores and Pharmacies",
+    "category": "Pharmacy",
+    "description": "Retail pharmacies selling prescription and over-the-counter medications.",
+    "keywords": [
+      "pharmacy",
+      "drug store",
+      "chemist",
+      "prescription medication",
+      "medicine shop"
+    ],
+    "aliases": [
+      "pharmacy",
+      "drugstore",
+      "chemist shop"
+    ]
+  },
+  {
+    "mcc": "5921",
+    "industry": "Package Stores - Beer, Wine and Liquor",
+    "category": "Retail",
+    "description": "Retailers of packaged beer, wine and liquor.",
+    "keywords": [
+      "liquor store",
+      "beer and wine shop",
+      "alcohol retailer",
+      "package store",
+      "bottle shop"
+    ],
+    "aliases": [
+      "liquor shop",
+      "off-license",
+      "alcohol store"
+    ]
+  },
+  {
+    "mcc": "5931",
+    "industry": "Used Merchandise and Secondhand Stores",
+    "category": "Retail",
+    "description": "Retailers of used and secondhand merchandise.",
+    "keywords": [
+      "secondhand store",
+      "used goods",
+      "thrift shop",
+      "resale store",
+      "used merchandise"
+    ],
+    "aliases": [
+      "thrift store",
+      "secondhand shop"
+    ]
+  },
+  {
+    "mcc": "5932",
+    "industry": "Antique Shops",
+    "category": "Retail",
+    "description": "Retailers of antiques and vintage collectible items.",
+    "keywords": [
+      "antique shop",
+      "vintage store",
+      "collectibles dealer",
+      "antiques retailer",
+      "heirloom shop"
+    ],
+    "aliases": [
+      "antique store",
+      "antique dealer"
+    ]
+  },
+  {
+    "mcc": "5933",
+    "industry": "Pawn Shops",
+    "category": "Financial Services",
+    "description": "Pawn shops offering secured loans against personal property.",
+    "keywords": [
+      "pawn shop",
+      "pawnbroker",
+      "collateral loan",
+      "pawn store",
+      "secondhand pawn"
+    ],
+    "aliases": [
+      "pawnshop",
+      "pawnbroker"
+    ]
+  },
+  {
+    "mcc": "5935",
+    "industry": "Wrecking and Salvage Yards",
+    "category": "Automotive",
+    "description": "Auto wrecking and salvage yards selling used parts.",
+    "keywords": [
+      "salvage yard",
+      "junkyard",
+      "auto wrecker",
+      "scrap yard",
+      "used parts yard"
+    ],
+    "aliases": [
+      "wrecking yard",
+      "auto salvage"
+    ]
+  },
+  {
+    "mcc": "5937",
+    "industry": "Antique Reproductions",
+    "category": "Retail",
+    "description": "Retailers of reproduction antique furniture and items.",
+    "keywords": [
+      "antique reproduction",
+      "reproduction furniture",
+      "vintage style store",
+      "replica antiques",
+      "period furniture"
+    ],
+    "aliases": [
+      "reproduction antiques store"
+    ]
+  },
+  {
+    "mcc": "5940",
+    "industry": "Bicycle Shops - Sales and Service",
+    "category": "Sports",
+    "description": "Retailers selling and servicing bicycles.",
+    "keywords": [
+      "bike shop",
+      "bicycle store",
+      "cycle shop",
+      "bike repair",
+      "bicycle dealer"
+    ],
+    "aliases": [
+      "bicycle shop",
+      "bike store"
+    ]
+  },
+  {
+    "mcc": "5941",
+    "industry": "Sporting Goods Stores",
+    "category": "Sports",
+    "description": "Retailers of sporting goods and athletic equipment.",
+    "keywords": [
+      "sporting goods",
+      "sports equipment store",
+      "athletic gear",
+      "sports retailer",
+      "outdoor gear"
+    ],
+    "aliases": [
+      "sports store",
+      "sporting goods retailer"
+    ]
+  },
+  {
+    "mcc": "5942",
+    "industry": "Book Stores",
+    "category": "Books",
+    "description": "Retailers of books and printed publications.",
+    "keywords": [
+      "book store",
+      "bookshop",
+      "bookseller",
+      "reading materials",
+      "book retailer"
+    ],
+    "aliases": [
+      "bookstore",
+      "book shop"
+    ]
+  },
+  {
+    "mcc": "5943",
+    "industry": "Stationery Stores, Office and School Supply Stores",
+    "category": "Retail",
+    "description": "Retailers of stationery, office and school supplies.",
+    "keywords": [
+      "stationery store",
+      "office supply store",
+      "school supplies",
+      "paper goods retailer",
+      "school stationery"
+    ],
+    "aliases": [
+      "stationery shop",
+      "office supply retailer"
+    ]
+  },
+  {
+    "mcc": "5944",
+    "industry": "Jewelry Stores, Watches, Clocks and Silverware Stores",
+    "category": "Jewelry",
+    "description": "Retailers of jewelry, watches, clocks and silverware.",
+    "keywords": [
+      "jewelry store",
+      "watch shop",
+      "jeweler",
+      "fine jewelry",
+      "clock store"
+    ],
+    "aliases": [
+      "jewellery store",
+      "jewelers",
+      "watch store"
+    ]
+  },
+  {
+    "mcc": "5945",
+    "industry": "Hobby, Toy and Game Shops",
+    "category": "Gaming",
+    "description": "Retailers of hobby supplies, toys and games.",
+    "keywords": [
+      "toy store",
+      "hobby shop",
+      "game shop",
+      "board games retailer",
+      "collectible toys"
+    ],
+    "aliases": [
+      "toy shop",
+      "hobby store"
+    ]
+  },
+  {
+    "mcc": "5946",
+    "industry": "Camera and Photographic Supply Stores",
+    "category": "Electronics",
+    "description": "Retailers of cameras and photographic supplies.",
+    "keywords": [
+      "camera store",
+      "photography supplies",
+      "photo equipment shop",
+      "camera retailer",
+      "photographic supplies"
+    ],
+    "aliases": [
+      "camera shop",
+      "photography store"
+    ]
+  },
+  {
+    "mcc": "5947",
+    "industry": "Gift, Card, Novelty and Souvenir Shops",
+    "category": "Retail",
+    "description": "Retailers of gifts, greeting cards and novelty items.",
+    "keywords": [
+      "gift shop",
+      "card store",
+      "novelty store",
+      "souvenir shop",
+      "greeting cards"
+    ],
+    "aliases": [
+      "gift store",
+      "souvenir store"
+    ]
+  },
+  {
+    "mcc": "5948",
+    "industry": "Luggage and Leather Goods Stores",
+    "category": "Retail",
+    "description": "Retailers of luggage and leather goods.",
+    "keywords": [
+      "luggage store",
+      "leather goods",
+      "suitcase retailer",
+      "travel bags shop",
+      "leather accessories"
+    ],
+    "aliases": [
+      "luggage shop",
+      "leather goods store"
+    ]
+  },
+  {
+    "mcc": "5949",
+    "industry": "Sewing, Needlework, Fabric and Piece Goods Stores",
+    "category": "Retail",
+    "description": "Retailers of sewing, needlework and fabric supplies.",
+    "keywords": [
+      "fabric store",
+      "sewing supplies",
+      "needlework shop",
+      "craft fabric",
+      "textile retailer"
+    ],
+    "aliases": [
+      "sewing shop",
+      "fabric shop"
+    ]
+  },
+  {
+    "mcc": "5950",
+    "industry": "Glassware and Crystal Stores",
+    "category": "Retail",
+    "description": "Retailers of glassware and crystal products.",
+    "keywords": [
+      "glassware store",
+      "crystal shop",
+      "tableware retailer",
+      "fine glass",
+      "crystal dealer"
+    ],
+    "aliases": [
+      "glassware shop",
+      "crystal store"
+    ]
+  },
+  {
+    "mcc": "5960",
+    "industry": "Direct Marketing - Insurance Services",
+    "category": "Insurance",
+    "description": "Insurance products sold via direct marketing channels.",
+    "keywords": [
+      "direct insurance sales",
+      "insurance direct marketing",
+      "mail order insurance",
+      "telemarketed insurance",
+      "insurance subscription"
+    ],
+    "aliases": [
+      "direct marketing insurance"
+    ]
+  },
+  {
+    "mcc": "5961",
+    "industry": "Mail Order and Catalog Merchants",
+    "category": "Retail",
+    "description": "Merchants selling merchandise via mail order or catalog.",
+    "keywords": [
+      "mail order",
+      "catalog shopping",
+      "catalog merchant",
+      "order by mail",
+      "catalog retailer"
+    ],
+    "aliases": [
+      "catalog store",
+      "mail-order retailer"
+    ]
+  },
+  {
+    "mcc": "5962",
+    "industry": "Direct Marketing - Travel-Related Arrangements",
+    "category": "Travel",
+    "description": "Travel services sold through direct marketing channels.",
+    "keywords": [
+      "direct marketing travel",
+      "travel telemarketing",
+      "mail order travel",
+      "travel package sales",
+      "direct travel booking"
+    ],
+    "aliases": [
+      "direct travel marketing"
+    ]
+  },
+  {
+    "mcc": "5963",
+    "industry": "Door-to-Door Sales",
+    "category": "Retail",
+    "description": "Sales of merchandise conducted door-to-door.",
+    "keywords": [
+      "door to door sales",
+      "home sales",
+      "direct home selling",
+      "doorstep selling",
+      "in-home sales"
+    ],
+    "aliases": [
+      "door-to-door selling"
+    ]
+  },
+  {
+    "mcc": "5964",
+    "industry": "Direct Marketing - Catalog Merchant",
+    "category": "Retail",
+    "description": "Catalog-based direct marketing merchandise sales.",
+    "keywords": [
+      "catalog direct marketing",
+      "catalog sales",
+      "direct mail catalog",
+      "catalog merchandise",
+      "mail order catalog"
+    ],
+    "aliases": [
+      "direct marketing catalog"
+    ]
+  },
+  {
+    "mcc": "5965",
+    "industry": "Direct Marketing - Combination Catalog and Retail Merchant",
+    "category": "Retail",
+    "description": "Merchants selling via both catalog and physical retail channels.",
+    "keywords": [
+      "combination catalog retail",
+      "hybrid retailer",
+      "catalog and store",
+      "omni-channel retail",
+      "catalog retail combo"
+    ],
+    "aliases": [
+      "catalog and retail merchant"
+    ]
+  },
+  {
+    "mcc": "5966",
+    "industry": "Direct Marketing - Outbound Telemarketing",
+    "category": "Retail",
+    "description": "Outbound telemarketing sales of merchandise or services.",
+    "keywords": [
+      "outbound telemarketing",
+      "phone sales",
+      "cold calling sales",
+      "telesales",
+      "outbound calls sales"
+    ],
+    "aliases": [
+      "telemarketing outbound"
+    ]
+  },
+  {
+    "mcc": "5967",
+    "industry": "Direct Marketing - Inbound Telemarketing",
+    "category": "Retail",
+    "description": "Inbound telemarketing sales of merchandise or services.",
+    "keywords": [
+      "inbound telemarketing",
+      "phone order sales",
+      "call center sales",
+      "inbound sales calls",
+      "telesales inbound"
+    ],
+    "aliases": [
+      "telemarketing inbound"
+    ]
+  },
+  {
+    "mcc": "5968",
+    "industry": "Direct Marketing - Continuity/Subscription Merchant",
+    "category": "Subscription Services",
+    "description": "Subscription and continuity merchandise sold via direct marketing.",
+    "keywords": [
+      "subscription box",
+      "continuity billing",
+      "recurring subscription",
+      "subscription merchant",
+      "membership box"
+    ],
+    "aliases": [
+      "subscription service",
+      "continuity merchant"
+    ]
+  },
+  {
+    "mcc": "5969",
+    "industry": "Direct Marketing - Other",
+    "category": "Retail",
+    "description": "Direct marketing merchandise sales not otherwise classified.",
+    "keywords": [
+      "direct marketing other",
+      "misc direct sales",
+      "direct response marketing",
+      "direct sales channel",
+      "direct marketing misc"
+    ],
+    "aliases": [
+      "other direct marketing"
+    ]
+  },
+  {
+    "mcc": "5970",
+    "industry": "Artist Supply and Craft Shops",
+    "category": "Retail",
+    "description": "Retailers of art supplies and craft materials.",
+    "keywords": [
+      "art supply store",
+      "craft shop",
+      "artist materials",
+      "craft supplies",
+      "painting supplies"
+    ],
+    "aliases": [
+      "art supplies shop",
+      "craft store"
+    ]
+  },
+  {
+    "mcc": "5971",
+    "industry": "Art Dealers and Galleries",
+    "category": "Retail",
+    "description": "Art dealers and galleries selling fine art.",
+    "keywords": [
+      "art gallery",
+      "art dealer",
+      "fine art sales",
+      "gallery shop",
+      "art exhibition sales"
+    ],
+    "aliases": [
+      "art gallery shop",
+      "art dealership"
+    ]
+  },
+  {
+    "mcc": "5972",
+    "industry": "Stamp and Coin Stores",
+    "category": "Retail",
+    "description": "Retailers of stamps and coins for collectors.",
+    "keywords": [
+      "stamp shop",
+      "coin dealer",
+      "numismatics",
+      "philately store",
+      "coin collecting shop"
+    ],
+    "aliases": [
+      "stamp and coin dealer",
+      "numismatic shop"
+    ]
+  },
+  {
+    "mcc": "5973",
+    "industry": "Religious Goods Stores",
+    "category": "Retail",
+    "description": "Retailers of religious goods and items.",
+    "keywords": [
+      "religious goods",
+      "religious items store",
+      "church supplies",
+      "spiritual goods shop",
+      "faith based store"
+    ],
+    "aliases": [
+      "religious store",
+      "religious supplies shop"
+    ]
+  },
+  {
+    "mcc": "5975",
+    "industry": "Hearing Aid Sales and Supplies",
+    "category": "Healthcare",
+    "description": "Retailers of hearing aids and related supplies.",
+    "keywords": [
+      "hearing aid store",
+      "hearing aid supplies",
+      "audiology retail",
+      "hearing device shop",
+      "hearing aid dealer"
+    ],
+    "aliases": [
+      "hearing aids store"
+    ]
+  },
+  {
+    "mcc": "5976",
+    "industry": "Orthopedic Goods and Prosthetic Devices",
+    "category": "Healthcare",
+    "description": "Retailers of orthopedic goods and prosthetic devices.",
+    "keywords": [
+      "orthopedic goods",
+      "prosthetic devices",
+      "medical brace store",
+      "orthotic supplies",
+      "prosthetics shop"
+    ],
+    "aliases": [
+      "orthopedic supply store"
+    ]
+  },
+  {
+    "mcc": "5977",
+    "industry": "Cosmetic Stores",
+    "category": "Personal Care",
+    "description": "Retailers of cosmetics and beauty products.",
+    "keywords": [
+      "cosmetics store",
+      "beauty products shop",
+      "makeup retailer",
+      "skincare store",
+      "beauty supply"
+    ],
+    "aliases": [
+      "cosmetic shop",
+      "beauty store"
+    ]
+  },
+  {
+    "mcc": "5978",
+    "industry": "Typewriter Stores",
+    "category": "Retail",
+    "description": "Retailers selling and servicing typewriters.",
+    "keywords": [
+      "typewriter store",
+      "typewriter sales",
+      "typewriter repair",
+      "office typewriter shop",
+      "vintage typewriter"
+    ],
+    "aliases": [
+      "typewriter shop"
+    ]
+  },
+  {
+    "mcc": "5983",
+    "industry": "Fuel Dealers - Fuel Oil, Wood, Coal and Liquefied Petroleum",
+    "category": "Fuel",
+    "description": "Dealers of fuel oil, wood, coal and liquefied petroleum gas.",
+    "keywords": [
+      "fuel oil dealer",
+      "firewood supplier",
+      "coal dealer",
+      "lpg supplier",
+      "heating fuel"
+    ],
+    "aliases": [
+      "fuel dealer",
+      "heating oil supplier"
+    ]
+  },
+  {
+    "mcc": "5992",
+    "industry": "Florists",
+    "category": "Retail",
+    "description": "Retailers selling fresh flowers and floral arrangements.",
+    "keywords": [
+      "florist",
+      "flower shop",
+      "floral arrangements",
+      "flower delivery",
+      "bouquet shop"
+    ],
+    "aliases": [
+      "florist shop",
+      "flower store"
+    ]
+  },
+  {
+    "mcc": "5993",
+    "industry": "Cigar Stores and Stands",
+    "category": "Retail",
+    "description": "Retailers of cigars and tobacco products.",
+    "keywords": [
+      "cigar store",
+      "tobacco shop",
+      "cigar stand",
+      "smoke shop",
+      "tobacconist"
+    ],
+    "aliases": [
+      "cigar shop",
+      "tobacconist"
+    ]
+  },
+  {
+    "mcc": "5994",
+    "industry": "News Dealers and Newsstands",
+    "category": "Retail",
+    "description": "Newsstands selling newspapers, magazines and periodicals.",
+    "keywords": [
+      "newsstand",
+      "news dealer",
+      "magazine stand",
+      "newspaper vendor",
+      "periodicals stand"
+    ],
+    "aliases": [
+      "news stand",
+      "newspaper stand"
+    ]
+  },
+  {
+    "mcc": "5995",
+    "industry": "Pet Shops, Pet Foods and Supplies",
+    "category": "Retail",
+    "description": "Retailers of pets, pet food and pet supplies.",
+    "keywords": [
+      "pet shop",
+      "pet store",
+      "pet supplies",
+      "pet food retailer",
+      "animal supplies store"
+    ],
+    "aliases": [
+      "pet store",
+      "pet supply shop"
+    ]
+  },
+  {
+    "mcc": "5996",
+    "industry": "Swimming Pool Sales and Services",
+    "category": "Home Improvement",
+    "description": "Retailers and service providers for swimming pools.",
+    "keywords": [
+      "pool store",
+      "swimming pool service",
+      "pool supplies",
+      "pool installation",
+      "pool maintenance"
+    ],
+    "aliases": [
+      "swimming pool store",
+      "pool company"
+    ]
+  },
+  {
+    "mcc": "5997",
+    "industry": "Electric Razor Stores",
+    "category": "Personal Care",
+    "description": "Retailers specializing in electric razors and shavers.",
+    "keywords": [
+      "electric razor store",
+      "shaver shop",
+      "grooming device retailer",
+      "razor dealer",
+      "electric shaver"
+    ],
+    "aliases": [
+      "razor store",
+      "shaver store"
+    ]
+  },
+  {
+    "mcc": "5998",
+    "industry": "Tent and Awning Shops",
+    "category": "Retail",
+    "description": "Retailers and makers of tents and awnings.",
+    "keywords": [
+      "tent shop",
+      "awning store",
+      "canvas products",
+      "camping tent retailer",
+      "awning installer"
+    ],
+    "aliases": [
+      "tent and awning store"
+    ]
+  },
+  {
+    "mcc": "5999",
+    "industry": "Miscellaneous and Specialty Retail Stores",
+    "category": "Retail",
+    "description": "Specialty retail stores not otherwise classified.",
+    "keywords": [
+      "specialty retail",
+      "misc retail store",
+      "niche retailer",
+      "specialty shop",
+      "general specialty store"
+    ],
+    "aliases": [
+      "specialty store",
+      "misc retail"
+    ]
+  },
+  {
+    "mcc": "6010",
+    "industry": "Financial Institutions - Manual Cash Disbursements",
+    "category": "Financial Services",
+    "description": "Manual cash disbursement transactions at financial institutions.",
+    "keywords": [
+      "cash disbursement",
+      "bank teller cash",
+      "manual withdrawal",
+      "branch cash advance",
+      "teller transaction"
+    ],
+    "aliases": [
+      "manual cash advance",
+      "bank cash disbursement"
+    ]
+  },
+  {
+    "mcc": "6011",
+    "industry": "Financial Institutions - Automated Cash Disbursements",
+    "category": "Financial Services",
+    "description": "Automated teller machine (ATM) cash withdrawal transactions.",
+    "keywords": [
+      "atm withdrawal",
+      "cash machine",
+      "automated cash",
+      "atm transaction",
+      "cash dispenser"
+    ],
+    "aliases": [
+      "atm",
+      "cash machine withdrawal"
+    ]
+  },
+  {
+    "mcc": "6012",
+    "industry": "Financial Institutions - Merchandise and Services",
+    "category": "Financial Services",
+    "description": "Financial institution transactions for merchandise and services.",
+    "keywords": [
+      "financial institution services",
+      "bank merchandise",
+      "bank services",
+      "financial services transaction",
+      "banking product"
+    ],
+    "aliases": [
+      "banking services",
+      "financial institution"
+    ]
+  },
+  {
+    "mcc": "6051",
+    "industry": "Non-Financial Institutions - Foreign Currency, Money Orders",
+    "category": "Financial Services",
+    "description": "Non-bank providers of foreign currency exchange and money orders.",
+    "keywords": [
+      "currency exchange",
+      "money order",
+      "forex service",
+      "foreign exchange bureau",
+      "money order issuer"
+    ],
+    "aliases": [
+      "currency exchange service",
+      "forex bureau"
+    ]
+  },
+  {
+    "mcc": "6211",
+    "industry": "Securities Brokers and Dealers",
+    "category": "Financial Services",
+    "description": "Brokerage firms and securities dealers facilitating investment trading.",
+    "keywords": [
+      "stock broker",
+      "securities dealer",
+      "investment brokerage",
+      "trading platform",
+      "brokerage firm"
+    ],
+    "aliases": [
+      "broker",
+      "brokerage",
+      "securities firm"
+    ]
+  },
+  {
+    "mcc": "6300",
+    "industry": "Insurance Sales, Underwriting and Premiums",
+    "category": "Insurance",
+    "description": "Insurance companies providing sales, underwriting and premium services.",
+    "keywords": [
+      "insurance company",
+      "insurance underwriter",
+      "insurance sales",
+      "policy provider",
+      "insurer"
+    ],
+    "aliases": [
+      "insurance provider",
+      "insurer"
+    ]
+  },
+  {
+    "mcc": "6381",
+    "industry": "Insurance Premiums",
+    "category": "Insurance",
+    "description": "Payment of insurance premiums to insurance providers.",
+    "keywords": [
+      "insurance premium",
+      "policy payment",
+      "insurance billing",
+      "premium payment",
+      "insurance dues"
+    ],
+    "aliases": [
+      "insurance premium payment"
+    ]
+  },
+  {
+    "mcc": "6399",
+    "industry": "Insurance - Default",
+    "category": "Insurance",
+    "description": "Insurance-related transactions not otherwise classified.",
+    "keywords": [
+      "insurance misc",
+      "insurance transaction",
+      "insurance services default",
+      "general insurance",
+      "insurance default"
+    ],
+    "aliases": [
+      "misc insurance"
+    ]
+  },
+  {
+    "mcc": "6513",
+    "industry": "Real Estate Agents and Managers",
+    "category": "Real Estate",
+    "description": "Real estate agents, brokers and property management services.",
+    "keywords": [
+      "real estate agent",
+      "property manager",
+      "realtor",
+      "real estate broker",
+      "property management"
+    ],
+    "aliases": [
+      "real estate agency",
+      "realtor",
+      "property agent"
+    ]
+  },
+  {
+    "mcc": "6529",
+    "industry": "Remote Stored Value Load - Member Financial Institution",
+    "category": "Financial Services",
+    "description": "Loading of funds onto remote stored value accounts by financial institutions.",
+    "keywords": [
+      "stored value load",
+      "prepaid load",
+      "account funding",
+      "remote load service",
+      "balance top-up"
+    ],
+    "aliases": [
+      "stored value account load"
+    ]
+  },
+  {
+    "mcc": "6530",
+    "industry": "Remote Stored Value Dispensing - Member Financial Institution",
+    "category": "Financial Services",
+    "description": "Dispensing of funds from remote stored value accounts.",
+    "keywords": [
+      "stored value dispensing",
+      "prepaid withdrawal",
+      "account disbursement",
+      "remote dispensing service",
+      "balance payout"
+    ],
+    "aliases": [
+      "stored value payout"
+    ]
+  },
+  {
+    "mcc": "6531",
+    "industry": "Payment Service Providers - Third Party",
+    "category": "Financial Services",
+    "description": "Third-party payment service providers processing merchant transactions.",
+    "keywords": [
+      "payment processor",
+      "payment gateway",
+      "psp",
+      "payment service provider",
+      "merchant payment processing"
+    ],
+    "aliases": [
+      "payment service provider",
+      "psp"
+    ]
+  },
+  {
+    "mcc": "6532",
+    "industry": "Payment Transaction - Custom Payment Service",
+    "category": "Financial Services",
+    "description": "Custom payment transaction services facilitated by a payment provider.",
+    "keywords": [
+      "custom payment service",
+      "payment transaction service",
+      "payment processing",
+      "bespoke payment service",
+      "payment facilitation"
+    ],
+    "aliases": [
+      "custom payment transaction"
+    ]
+  },
+  {
+    "mcc": "6533",
+    "industry": "Payment Transaction - Merchandise and Services",
+    "category": "Financial Services",
+    "description": "Payment transactions for merchandise and services via payment platforms.",
+    "keywords": [
+      "payment transaction",
+      "merchandise payment",
+      "service payment platform",
+      "transaction processing",
+      "payment platform"
+    ],
+    "aliases": [
+      "payment transaction service"
+    ]
+  },
+  {
+    "mcc": "6536",
+    "industry": "MoneySend Intracountry",
+    "category": "Financial Services",
+    "description": "Domestic person-to-person funds transfer transactions.",
+    "keywords": [
+      "moneysend domestic",
+      "p2p transfer",
+      "domestic funds transfer",
+      "peer to peer payment",
+      "intracountry transfer"
+    ],
+    "aliases": [
+      "domestic moneysend",
+      "p2p domestic transfer"
+    ]
+  },
+  {
+    "mcc": "6537",
+    "industry": "MoneySend Intercountry",
+    "category": "Financial Services",
+    "description": "Cross-border person-to-person funds transfer transactions.",
+    "keywords": [
+      "moneysend international",
+      "cross border transfer",
+      "international p2p",
+      "intercountry transfer",
+      "global funds transfer"
+    ],
+    "aliases": [
+      "international moneysend",
+      "cross-border p2p"
+    ]
+  },
+  {
+    "mcc": "6538",
+    "industry": "MoneySend Funding",
+    "category": "Financial Services",
+    "description": "Funding transactions supporting person-to-person money transfers.",
+    "keywords": [
+      "moneysend funding",
+      "transfer funding",
+      "p2p funding transaction",
+      "account funding transfer",
+      "moneysend load"
+    ],
+    "aliases": [
+      "moneysend funding transaction"
+    ]
+  },
+  {
+    "mcc": "6540",
+    "industry": "POI Funding Transactions",
+    "category": "Financial Services",
+    "description": "Point-of-interaction funding transactions for prepaid or stored value.",
+    "keywords": [
+      "poi funding",
+      "point of interaction funding",
+      "prepaid funding",
+      "account load transaction",
+      "stored value funding"
+    ],
+    "aliases": [
+      "point of interaction funding"
+    ]
+  },
+  {
+    "mcc": "7011",
+    "industry": "Hotels, Motels and Resorts",
+    "category": "Travel",
+    "description": "Lodging establishments including hotels, motels and resorts.",
+    "keywords": [
+      "hotel",
+      "motel",
+      "resort",
+      "lodging",
+      "accommodation"
+    ],
+    "aliases": [
+      "hotels",
+      "lodging",
+      "accommodation"
+    ]
+  },
+  {
+    "mcc": "7012",
+    "industry": "Timeshares",
+    "category": "Real Estate",
+    "description": "Timeshare resort and vacation ownership property sales.",
+    "keywords": [
+      "timeshare",
+      "vacation ownership",
+      "shared resort property",
+      "fractional ownership",
+      "timeshare resort"
+    ],
+    "aliases": [
+      "timeshare resort",
+      "vacation property share"
+    ]
+  },
+  {
+    "mcc": "7032",
+    "industry": "Sporting and Recreational Camps",
+    "category": "Sports",
+    "description": "Sporting and recreational camps offering activity-based programs.",
+    "keywords": [
+      "sports camp",
+      "recreational camp",
+      "summer camp",
+      "activity camp",
+      "youth camp"
+    ],
+    "aliases": [
+      "sports camp",
+      "recreation camp"
+    ]
+  },
+  {
+    "mcc": "7033",
+    "industry": "Trailer Parks and Campgrounds",
+    "category": "Travel",
+    "description": "Trailer parks and campgrounds for recreational camping.",
+    "keywords": [
+      "campground",
+      "trailer park",
+      "rv park",
+      "camping site",
+      "caravan park"
+    ],
+    "aliases": [
+      "camp ground",
+      "rv campground"
+    ]
+  },
+  {
+    "mcc": "7210",
+    "industry": "Laundry, Cleaning and Garment Services",
+    "category": "Personal Care",
+    "description": "Laundry and garment cleaning service providers.",
+    "keywords": [
+      "laundry service",
+      "garment cleaning",
+      "laundromat",
+      "clothes cleaning",
+      "laundry pickup"
+    ],
+    "aliases": [
+      "laundry services",
+      "garment care"
+    ]
+  },
+  {
+    "mcc": "7211",
+    "industry": "Laundries - Family and Commercial",
+    "category": "Personal Care",
+    "description": "Family and commercial laundry service providers.",
+    "keywords": [
+      "laundromat",
+      "commercial laundry",
+      "family laundry",
+      "wash and fold",
+      "laundry facility"
+    ],
+    "aliases": [
+      "laundry",
+      "laundromat services"
+    ]
+  },
+  {
+    "mcc": "7216",
+    "industry": "Dry Cleaners",
+    "category": "Personal Care",
+    "description": "Dry cleaning services for garments and textiles.",
+    "keywords": [
+      "dry cleaner",
+      "dry cleaning service",
+      "garment dry cleaning",
+      "clothes cleaning",
+      "fabric cleaning"
+    ],
+    "aliases": [
+      "dry cleaning",
+      "dry cleaners"
+    ]
+  },
+  {
+    "mcc": "7217",
+    "industry": "Carpet and Upholstery Cleaning",
+    "category": "Cleaning",
+    "description": "Carpet and upholstery cleaning services.",
+    "keywords": [
+      "carpet cleaning",
+      "upholstery cleaning",
+      "rug cleaning",
+      "furniture cleaning",
+      "steam cleaning"
+    ],
+    "aliases": [
+      "carpet cleaner",
+      "upholstery cleaner"
+    ]
+  },
+  {
+    "mcc": "7221",
+    "industry": "Photographic Studios",
+    "category": "Personal Care",
+    "description": "Photography studios providing portrait and event photography.",
+    "keywords": [
+      "photo studio",
+      "photographer",
+      "portrait photography",
+      "event photography",
+      "photography services"
+    ],
+    "aliases": [
+      "photography studio",
+      "photographer service"
+    ]
+  },
+  {
+    "mcc": "7230",
+    "industry": "Barber and Beauty Shops",
+    "category": "Personal Care",
+    "description": "Barber shops and beauty salons providing hair and grooming services.",
+    "keywords": [
+      "barber shop",
+      "beauty salon",
+      "hair salon",
+      "hairdresser",
+      "grooming salon"
+    ],
+    "aliases": [
+      "barbershop",
+      "salon",
+      "hair salon"
+    ]
+  },
+  {
+    "mcc": "7251",
+    "industry": "Shoe Repair and Shoe Shine Shops",
+    "category": "Personal Care",
+    "description": "Shoe repair and shoe shine service providers.",
+    "keywords": [
+      "shoe repair",
+      "cobbler",
+      "shoe shine",
+      "boot repair",
+      "shoe restoration"
+    ],
+    "aliases": [
+      "cobbler shop",
+      "shoe repair shop"
+    ]
+  },
+  {
+    "mcc": "7261",
+    "industry": "Funeral Services and Crematories",
+    "category": "Professional Services",
+    "description": "Funeral homes and crematory services.",
+    "keywords": [
+      "funeral home",
+      "crematory",
+      "funeral services",
+      "burial services",
+      "memorial services"
+    ],
+    "aliases": [
+      "funeral parlor",
+      "crematorium"
+    ]
+  },
+  {
+    "mcc": "7273",
+    "industry": "Dating and Escort Services",
+    "category": "Personal Care",
+    "description": "Dating and companion introduction services.",
+    "keywords": [
+      "dating service",
+      "matchmaking",
+      "escort service",
+      "companion service",
+      "introduction agency"
+    ],
+    "aliases": [
+      "dating agency",
+      "matchmaking service"
+    ]
+  },
+  {
+    "mcc": "7276",
+    "industry": "Tax Preparation Services",
+    "category": "Professional Services",
+    "description": "Tax preparation and filing service providers.",
+    "keywords": [
+      "tax preparation",
+      "tax filing",
+      "tax service",
+      "tax return preparer",
+      "tax consultant"
+    ],
+    "aliases": [
+      "tax prep service",
+      "tax filing service"
+    ]
+  },
+  {
+    "mcc": "7277",
+    "industry": "Counseling Services",
+    "category": "Professional Services",
+    "description": "Debt, marriage, personal and other counseling services.",
+    "keywords": [
+      "counseling service",
+      "therapy",
+      "debt counseling",
+      "personal counseling",
+      "counselor"
+    ],
+    "aliases": [
+      "counselling services",
+      "therapy service"
+    ]
+  },
+  {
+    "mcc": "7278",
+    "industry": "Buying and Shopping Services and Clubs",
+    "category": "Retail",
+    "description": "Personal shopping and buying club services.",
+    "keywords": [
+      "personal shopper",
+      "shopping club",
+      "buying service",
+      "concierge shopping",
+      "shopping assistance"
+    ],
+    "aliases": [
+      "buying club",
+      "shopping service"
+    ]
+  },
+  {
+    "mcc": "7296",
+    "industry": "Clothing Rental",
+    "category": "Clothing",
+    "description": "Rental services for formal wear and clothing.",
+    "keywords": [
+      "clothing rental",
+      "costume rental",
+      "formal wear rental",
+      "tuxedo rental",
+      "dress rental"
+    ],
+    "aliases": [
+      "apparel rental",
+      "garment rental"
+    ]
+  },
+  {
+    "mcc": "7297",
+    "industry": "Massage Parlors",
+    "category": "Personal Care",
+    "description": "Massage therapy and wellness parlor services.",
+    "keywords": [
+      "massage parlor",
+      "massage therapy",
+      "spa massage",
+      "body massage",
+      "therapeutic massage"
+    ],
+    "aliases": [
+      "massage studio",
+      "massage service"
+    ]
+  },
+  {
+    "mcc": "7298",
+    "industry": "Health and Beauty Spas",
+    "category": "Personal Care",
+    "description": "Health and beauty spa services.",
+    "keywords": [
+      "spa",
+      "beauty spa",
+      "wellness spa",
+      "day spa",
+      "health spa"
+    ],
+    "aliases": [
+      "spa services",
+      "wellness center"
+    ]
+  },
+  {
+    "mcc": "7299",
+    "industry": "Miscellaneous Personal Services",
+    "category": "Personal Care",
+    "description": "Personal service providers not otherwise classified.",
+    "keywords": [
+      "personal services",
+      "misc services",
+      "personal care service",
+      "lifestyle services",
+      "personal assistance"
+    ],
+    "aliases": [
+      "misc personal services"
+    ]
+  },
+  {
+    "mcc": "7311",
+    "industry": "Advertising Services",
+    "category": "Marketing",
+    "description": "Advertising agencies and services promoting products and brands.",
+    "keywords": [
+      "advertising agency",
+      "ad services",
+      "brand promotion",
+      "advertising campaign",
+      "media advertising"
+    ],
+    "aliases": [
+      "ad agency",
+      "advertising firm"
+    ]
+  },
+  {
+    "mcc": "7321",
+    "industry": "Consumer Credit Reporting Agencies",
+    "category": "Financial Services",
+    "description": "Agencies providing consumer credit reporting services.",
+    "keywords": [
+      "credit reporting",
+      "credit bureau",
+      "credit report agency",
+      "consumer credit report",
+      "credit score service"
+    ],
+    "aliases": [
+      "credit bureau",
+      "credit reporting service"
+    ]
+  },
+  {
+    "mcc": "7322",
+    "industry": "Debt Collection Agencies",
+    "category": "Financial Services",
+    "description": "Agencies providing debt collection services.",
+    "keywords": [
+      "debt collection",
+      "collection agency",
+      "debt recovery",
+      "bill collector",
+      "collections service"
+    ],
+    "aliases": [
+      "collections agency",
+      "debt collector"
+    ]
+  },
+  {
+    "mcc": "7333",
+    "industry": "Commercial Photography, Art and Graphics",
+    "category": "Marketing",
+    "description": "Commercial photography, art and graphic design services.",
+    "keywords": [
+      "commercial photography",
+      "graphic design",
+      "commercial art",
+      "design studio",
+      "creative services"
+    ],
+    "aliases": [
+      "graphic design service",
+      "commercial art studio"
+    ]
+  },
+  {
+    "mcc": "7338",
+    "industry": "Quick Copy and Reproduction Services",
+    "category": "Printing",
+    "description": "Quick print and document reproduction services.",
+    "keywords": [
+      "print shop",
+      "copy service",
+      "document reproduction",
+      "quick print",
+      "photocopying"
+    ],
+    "aliases": [
+      "copy shop",
+      "print and copy service"
+    ]
+  },
+  {
+    "mcc": "7339",
+    "industry": "Secretarial and Court Reporting Services",
+    "category": "Professional Services",
+    "description": "Secretarial, stenographic and court reporting services.",
+    "keywords": [
+      "secretarial service",
+      "court reporting",
+      "stenography",
+      "transcription service",
+      "administrative support"
+    ],
+    "aliases": [
+      "secretarial support",
+      "court reporter service"
+    ]
+  },
+  {
+    "mcc": "7342",
+    "industry": "Exterminating and Disinfecting Services",
+    "category": "Cleaning",
+    "description": "Pest control, exterminating and disinfecting services.",
+    "keywords": [
+      "pest control",
+      "exterminator",
+      "disinfecting service",
+      "fumigation",
+      "pest management"
+    ],
+    "aliases": [
+      "pest control service",
+      "exterminating service"
+    ]
+  },
+  {
+    "mcc": "7349",
+    "industry": "Cleaning and Maintenance Services",
+    "category": "Cleaning",
+    "description": "Building cleaning and maintenance services.",
+    "keywords": [
+      "cleaning service",
+      "janitorial service",
+      "facility maintenance",
+      "building cleaning",
+      "maintenance contractor"
+    ],
+    "aliases": [
+      "janitorial services",
+      "cleaning company"
+    ]
+  },
+  {
+    "mcc": "7361",
+    "industry": "Employment and Temporary Help Agencies",
+    "category": "Professional Services",
+    "description": "Employment agencies and temporary staffing services.",
+    "keywords": [
+      "employment agency",
+      "staffing agency",
+      "temp agency",
+      "recruitment service",
+      "job placement"
+    ],
+    "aliases": [
+      "staffing agency",
+      "recruitment agency"
+    ]
+  },
+  {
+    "mcc": "7372",
+    "industry": "Computer Programming and Software Services",
+    "category": "Technology",
+    "description": "Custom computer programming, software development and integration services.",
+    "keywords": [
+      "software development",
+      "computer programming",
+      "it services",
+      "app development",
+      "software consulting"
+    ],
+    "aliases": [
+      "software services",
+      "programming service"
+    ]
+  },
+  {
+    "mcc": "7375",
+    "industry": "Information Retrieval Services",
+    "category": "Digital Services",
+    "description": "Online information retrieval and database access services.",
+    "keywords": [
+      "information retrieval",
+      "database service",
+      "data lookup service",
+      "online research service",
+      "info service"
+    ],
+    "aliases": [
+      "information service",
+      "data retrieval service"
+    ]
+  },
+  {
+    "mcc": "7379",
+    "industry": "Computer Repair, Maintenance and Services",
+    "category": "Technology",
+    "description": "Computer repair, maintenance and technical support services.",
+    "keywords": [
+      "computer repair",
+      "it support",
+      "tech support",
+      "computer maintenance",
+      "hardware repair"
+    ],
+    "aliases": [
+      "pc repair",
+      "computer service"
+    ]
+  },
+  {
+    "mcc": "7392",
+    "industry": "Management, Consulting and Public Relations Services",
+    "category": "Professional Services",
+    "description": "Management consulting and public relations service providers.",
+    "keywords": [
+      "consulting firm",
+      "management consulting",
+      "public relations",
+      "business consultant",
+      "strategy consulting"
+    ],
+    "aliases": [
+      "consulting services",
+      "pr agency"
+    ]
+  },
+  {
+    "mcc": "7393",
+    "industry": "Detective Agencies and Protective Services",
+    "category": "Professional Services",
+    "description": "Detective, security guard and protective services.",
+    "keywords": [
+      "detective agency",
+      "private investigator",
+      "security guard service",
+      "protective service",
+      "surveillance service"
+    ],
+    "aliases": [
+      "private investigation service",
+      "security services"
+    ]
+  },
+  {
+    "mcc": "7394",
+    "industry": "Equipment Rental and Leasing Services",
+    "category": "Professional Services",
+    "description": "Equipment rental and leasing services for tools and machinery.",
+    "keywords": [
+      "equipment rental",
+      "tool rental",
+      "machinery leasing",
+      "equipment hire",
+      "gear rental"
+    ],
+    "aliases": [
+      "equipment leasing",
+      "rental service"
+    ]
+  },
+  {
+    "mcc": "7395",
+    "industry": "Photo Finishing and Photofinishing Laboratories",
+    "category": "Personal Care",
+    "description": "Photo finishing and film developing laboratory services.",
+    "keywords": [
+      "photo finishing",
+      "film developing",
+      "photo lab",
+      "print processing",
+      "photo printing service"
+    ],
+    "aliases": [
+      "photofinishing lab",
+      "photo developing service"
+    ]
+  },
+  {
+    "mcc": "7399",
+    "industry": "Business Services",
+    "category": "Professional Services",
+    "description": "Business services not otherwise classified.",
+    "keywords": [
+      "business services",
+      "misc business service",
+      "commercial services",
+      "office services",
+      "corporate services"
+    ],
+    "aliases": [
+      "misc business services"
+    ]
+  },
+  {
+    "mcc": "7512",
+    "industry": "Car Rental Agencies",
+    "category": "Automotive",
+    "description": "Car rental agencies renting vehicles to consumers and businesses.",
+    "keywords": [
+      "car rental",
+      "vehicle rental",
+      "rental car agency",
+      "car hire",
+      "auto rental"
+    ],
+    "aliases": [
+      "car hire",
+      "rent a car",
+      "vehicle rental agency"
+    ]
+  },
+  {
+    "mcc": "7513",
+    "industry": "Truck and Utility Trailer Rentals",
+    "category": "Logistics",
+    "description": "Rental services for trucks and utility trailers.",
+    "keywords": [
+      "truck rental",
+      "trailer rental",
+      "moving truck hire",
+      "utility trailer rental",
+      "cargo van rental"
+    ],
+    "aliases": [
+      "truck hire",
+      "trailer hire"
+    ]
+  },
+  {
+    "mcc": "7519",
+    "industry": "Motor Home and Recreational Vehicle Rentals",
+    "category": "Travel",
+    "description": "Rental services for motor homes and recreational vehicles.",
+    "keywords": [
+      "rv rental",
+      "motor home rental",
+      "camper rental",
+      "recreational vehicle hire",
+      "caravan rental"
+    ],
+    "aliases": [
+      "rv hire",
+      "motorhome rental"
+    ]
+  },
+  {
+    "mcc": "7523",
+    "industry": "Parking Lots and Garages",
+    "category": "Transportation",
+    "description": "Parking lot and parking garage facility services.",
+    "keywords": [
+      "parking lot",
+      "parking garage",
+      "car park",
+      "valet parking",
+      "parking facility"
+    ],
+    "aliases": [
+      "car park",
+      "parking service"
+    ]
+  },
+  {
+    "mcc": "7531",
+    "industry": "Automotive Body Repair Shops",
+    "category": "Automotive",
+    "description": "Auto body repair and collision repair shops.",
+    "keywords": [
+      "auto body shop",
+      "collision repair",
+      "car body repair",
+      "dent repair",
+      "panel beating"
+    ],
+    "aliases": [
+      "body shop",
+      "collision center"
+    ]
+  },
+  {
+    "mcc": "7534",
+    "industry": "Tire Retreading and Repair Shops",
+    "category": "Automotive",
+    "description": "Tire retreading and repair service shops.",
+    "keywords": [
+      "tire repair",
+      "tire retreading",
+      "tyre repair shop",
+      "flat tire repair",
+      "tire service"
+    ],
+    "aliases": [
+      "tire repair shop",
+      "tyre repair"
+    ]
+  },
+  {
+    "mcc": "7535",
+    "industry": "Automotive Paint Shops",
+    "category": "Automotive",
+    "description": "Automotive paint and refinishing shops.",
+    "keywords": [
+      "auto paint shop",
+      "car painting",
+      "vehicle refinishing",
+      "spray paint shop",
+      "auto body paint"
+    ],
+    "aliases": [
+      "car paint shop",
+      "auto refinishing"
+    ]
+  },
+  {
+    "mcc": "7538",
+    "industry": "Automotive Service Shops",
+    "category": "Automotive",
+    "description": "General automotive repair and service shops.",
+    "keywords": [
+      "auto repair shop",
+      "car service center",
+      "mechanic shop",
+      "vehicle maintenance",
+      "auto service"
+    ],
+    "aliases": [
+      "auto service center",
+      "car repair shop"
+    ]
+  },
+  {
+    "mcc": "7542",
+    "industry": "Car Washes",
+    "category": "Automotive",
+    "description": "Car washing and detailing service providers.",
+    "keywords": [
+      "car wash",
+      "auto detailing",
+      "vehicle wash",
+      "car cleaning service",
+      "detailing shop"
+    ],
+    "aliases": [
+      "carwash",
+      "car detailing"
+    ]
+  },
+  {
+    "mcc": "7549",
+    "industry": "Towing Services",
+    "category": "Automotive",
+    "description": "Vehicle towing and roadside recovery services.",
+    "keywords": [
+      "towing service",
+      "tow truck",
+      "roadside recovery",
+      "vehicle towing",
+      "tow company"
+    ],
+    "aliases": [
+      "tow truck service",
+      "towing company"
+    ]
+  },
+  {
+    "mcc": "7622",
+    "industry": "Electronics Repair Shops",
+    "category": "Electronics",
+    "description": "Repair services for consumer electronics and audio equipment.",
+    "keywords": [
+      "electronics repair",
+      "gadget repair",
+      "tv repair",
+      "electronics fix shop",
+      "audio equipment repair"
+    ],
+    "aliases": [
+      "electronics repair shop"
+    ]
+  },
+  {
+    "mcc": "7623",
+    "industry": "Air Conditioning and Refrigeration Repair",
+    "category": "Repair Services",
+    "description": "Repair services for air conditioning and refrigeration systems.",
+    "keywords": [
+      "ac repair",
+      "refrigeration repair",
+      "hvac repair",
+      "cooling system repair",
+      "refrigerator repair"
+    ],
+    "aliases": [
+      "air conditioning repair",
+      "fridge repair"
+    ]
+  },
+  {
+    "mcc": "7629",
+    "industry": "Electrical and Small Appliance Repair Shops",
+    "category": "Repair Services",
+    "description": "Repair services for electrical and small household appliances.",
+    "keywords": [
+      "appliance repair",
+      "small appliance fix",
+      "electrical repair shop",
+      "household appliance service",
+      "appliance technician"
+    ],
+    "aliases": [
+      "appliance repair shop"
+    ]
+  },
+  {
+    "mcc": "7631",
+    "industry": "Watch, Clock and Jewelry Repair Shops",
+    "category": "Repair Services",
+    "description": "Repair services for watches, clocks and jewelry.",
+    "keywords": [
+      "watch repair",
+      "jewelry repair",
+      "clock repair shop",
+      "jewelry restoration",
+      "timepiece repair"
+    ],
+    "aliases": [
+      "watch and jewelry repair"
+    ]
+  },
+  {
+    "mcc": "7641",
+    "industry": "Furniture Reupholstery and Repair",
+    "category": "Repair Services",
+    "description": "Furniture reupholstery, repair and refinishing services.",
+    "keywords": [
+      "furniture repair",
+      "reupholstery",
+      "furniture restoration",
+      "upholstery repair",
+      "furniture refinishing"
+    ],
+    "aliases": [
+      "furniture reupholstery service"
+    ]
+  },
+  {
+    "mcc": "7692",
+    "industry": "Welding Services",
+    "category": "Repair Services",
+    "description": "Welding and metal fabrication repair services.",
+    "keywords": [
+      "welding service",
+      "metal fabrication",
+      "welder",
+      "welding repair",
+      "metalwork service"
+    ],
+    "aliases": [
+      "welding shop",
+      "welder service"
+    ]
+  },
+  {
+    "mcc": "7699",
+    "industry": "Miscellaneous Repair Shops",
+    "category": "Repair Services",
+    "description": "Repair services not otherwise classified.",
+    "keywords": [
+      "repair shop misc",
+      "general repair service",
+      "repair services",
+      "fix it shop",
+      "repair technician"
+    ],
+    "aliases": [
+      "misc repair shop"
+    ]
+  },
+  {
+    "mcc": "7800",
+    "industry": "Government-Owned Lotteries",
+    "category": "Government",
+    "description": "Government-operated lottery ticket sales.",
+    "keywords": [
+      "government lottery",
+      "lottery tickets",
+      "state lottery",
+      "lotto",
+      "official lottery"
+    ],
+    "aliases": [
+      "state lottery",
+      "government lotto"
+    ]
+  },
+  {
+    "mcc": "7801",
+    "industry": "Government-Licensed Online Casinos (Internet Gambling)",
+    "category": "Gaming",
+    "description": "Government-licensed online casino and internet gambling services.",
+    "keywords": [
+      "online casino",
+      "internet gambling",
+      "online betting",
+      "digital casino",
+      "licensed gambling site"
+    ],
+    "aliases": [
+      "online gambling",
+      "internet casino"
+    ]
+  },
+  {
+    "mcc": "7802",
+    "industry": "Government-Licensed Horse/Dog Racing",
+    "category": "Gaming",
+    "description": "Government-licensed horse and dog racing wagering services.",
+    "keywords": [
+      "horse racing betting",
+      "dog racing wagering",
+      "racetrack betting",
+      "pari-mutuel wagering",
+      "licensed racing"
+    ],
+    "aliases": [
+      "horse race betting",
+      "racing wagering"
+    ]
+  },
+  {
+    "mcc": "7829",
+    "industry": "Motion Picture and Video Tape Production/Distribution",
+    "category": "Entertainment",
+    "description": "Motion picture and video production and distribution services.",
+    "keywords": [
+      "film production",
+      "video distribution",
+      "movie studio",
+      "film distribution",
+      "production company"
+    ],
+    "aliases": [
+      "movie production",
+      "film distributor"
+    ]
+  },
+  {
+    "mcc": "7832",
+    "industry": "Motion Picture Theaters",
+    "category": "Entertainment",
+    "description": "Movie theaters showing films to the public.",
+    "keywords": [
+      "movie theater",
+      "cinema",
+      "film screening",
+      "movie house",
+      "theater ticket"
+    ],
+    "aliases": [
+      "cinema",
+      "movie theatre"
+    ]
+  },
+  {
+    "mcc": "7841",
+    "industry": "Video Tape Rental Stores",
+    "category": "Entertainment",
+    "description": "Retailers renting video tapes, DVDs and movies.",
+    "keywords": [
+      "video rental",
+      "dvd rental",
+      "movie rental store",
+      "video store",
+      "rental movies"
+    ],
+    "aliases": [
+      "video store",
+      "dvd rental shop"
+    ]
+  },
+  {
+    "mcc": "7911",
+    "industry": "Dance Halls, Studios and Schools",
+    "category": "Entertainment",
+    "description": "Dance halls, studios and instruction schools.",
+    "keywords": [
+      "dance studio",
+      "dance hall",
+      "dance school",
+      "dance lessons",
+      "ballroom dance"
+    ],
+    "aliases": [
+      "dance academy",
+      "dance instruction"
+    ]
+  },
+  {
+    "mcc": "7922",
+    "industry": "Theatrical Producers and Ticket Agencies",
+    "category": "Entertainment",
+    "description": "Theatrical production companies and event ticket agencies.",
+    "keywords": [
+      "ticket agency",
+      "theatrical producer",
+      "event tickets",
+      "box office",
+      "live show tickets"
+    ],
+    "aliases": [
+      "ticket agent",
+      "theater producer"
+    ]
+  },
+  {
+    "mcc": "7929",
+    "industry": "Bands, Orchestras and Miscellaneous Entertainers",
+    "category": "Entertainment",
+    "description": "Bands, orchestras and other live performance entertainers.",
+    "keywords": [
+      "band booking",
+      "orchestra",
+      "live entertainer",
+      "musical performer",
+      "event entertainment"
+    ],
+    "aliases": [
+      "live band",
+      "entertainment act"
+    ]
+  },
+  {
+    "mcc": "7932",
+    "industry": "Billiard and Pool Establishments",
+    "category": "Entertainment",
+    "description": "Billiard halls and pool table entertainment venues.",
+    "keywords": [
+      "pool hall",
+      "billiards",
+      "pool table venue",
+      "snooker hall",
+      "billiard club"
+    ],
+    "aliases": [
+      "billiard hall",
+      "pool club"
+    ]
+  },
+  {
+    "mcc": "7933",
+    "industry": "Bowling Alleys",
+    "category": "Entertainment",
+    "description": "Bowling alley entertainment venues.",
+    "keywords": [
+      "bowling alley",
+      "bowling center",
+      "ten pin bowling",
+      "bowling lanes",
+      "bowling venue"
+    ],
+    "aliases": [
+      "bowling center",
+      "bowling club"
+    ]
+  },
+  {
+    "mcc": "7941",
+    "industry": "Sports Clubs and Athletic Fields",
+    "category": "Sports",
+    "description": "Sports clubs and athletic field facilities.",
+    "keywords": [
+      "sports club",
+      "athletic field",
+      "sports facility",
+      "sports ground",
+      "recreation field"
+    ],
+    "aliases": [
+      "athletic club",
+      "sports venue"
+    ]
+  },
+  {
+    "mcc": "7991",
+    "industry": "Tourist Attractions and Exhibits",
+    "category": "Entertainment",
+    "description": "Tourist attractions, exhibits and sightseeing venues.",
+    "keywords": [
+      "tourist attraction",
+      "exhibit",
+      "sightseeing venue",
+      "landmark visit",
+      "attraction ticket"
+    ],
+    "aliases": [
+      "tourist site",
+      "attraction venue"
+    ]
+  },
+  {
+    "mcc": "7992",
+    "industry": "Golf Courses - Public",
+    "category": "Sports",
+    "description": "Public golf course facilities.",
+    "keywords": [
+      "golf course",
+      "golf club",
+      "golfing",
+      "public golf",
+      "golf green fees"
+    ],
+    "aliases": [
+      "golf club",
+      "golf facility"
+    ]
+  },
+  {
+    "mcc": "7993",
+    "industry": "Video Amusement Game Supplies",
+    "category": "Gaming",
+    "description": "Suppliers and operators of video amusement game machines.",
+    "keywords": [
+      "arcade games",
+      "video game machines",
+      "amusement game supplies",
+      "game machine operator",
+      "coin operated games"
+    ],
+    "aliases": [
+      "arcade game supplier"
+    ]
+  },
+  {
+    "mcc": "7994",
+    "industry": "Video Game Arcades and Establishments",
+    "category": "Gaming",
+    "description": "Video game arcades and gaming entertainment venues.",
+    "keywords": [
+      "video game arcade",
+      "arcade",
+      "gaming venue",
+      "game center",
+      "amusement arcade"
+    ],
+    "aliases": [
+      "arcade center",
+      "game arcade"
+    ]
+  },
+  {
+    "mcc": "7995",
+    "industry": "Betting and Casino Gambling",
+    "category": "Gaming",
+    "description": "Casino gambling and wagering establishments.",
+    "keywords": [
+      "casino",
+      "gambling venue",
+      "betting establishment",
+      "wagering",
+      "casino gaming"
+    ],
+    "aliases": [
+      "casino gambling",
+      "betting house"
+    ]
+  },
+  {
+    "mcc": "7996",
+    "industry": "Amusement Parks, Carnivals and Circuses",
+    "category": "Entertainment",
+    "description": "Amusement parks, carnivals and circus entertainment venues.",
+    "keywords": [
+      "amusement park",
+      "carnival",
+      "theme park",
+      "circus",
+      "fairground"
+    ],
+    "aliases": [
+      "theme park",
+      "carnival grounds"
+    ]
+  },
+  {
+    "mcc": "7997",
+    "industry": "Membership Clubs - Country Clubs, Athletic and Sports",
+    "category": "Sports",
+    "description": "Membership country clubs and athletic and sports clubs.",
+    "keywords": [
+      "country club",
+      "membership sports club",
+      "athletic club membership",
+      "private club",
+      "golf and sports club"
+    ],
+    "aliases": [
+      "country club membership",
+      "sports club"
+    ]
+  },
+  {
+    "mcc": "7998",
+    "industry": "Aquariums, Seaquariums and Dolphinariums",
+    "category": "Entertainment",
+    "description": "Aquariums and marine life exhibit venues.",
+    "keywords": [
+      "aquarium",
+      "seaquarium",
+      "marine life exhibit",
+      "dolphinarium",
+      "fish exhibit"
+    ],
+    "aliases": [
+      "aquarium venue",
+      "marine park"
+    ]
+  },
+  {
+    "mcc": "7999",
+    "industry": "Recreation Services",
+    "category": "Entertainment",
+    "description": "Recreation services not otherwise classified.",
+    "keywords": [
+      "recreation service",
+      "leisure activity",
+      "recreational facility",
+      "misc recreation",
+      "activity provider"
+    ],
+    "aliases": [
+      "recreational services"
+    ]
+  },
+  {
+    "mcc": "8011",
+    "industry": "Doctors and Physicians",
+    "category": "Healthcare",
+    "description": "Medical doctors and physicians providing healthcare services.",
+    "keywords": [
+      "doctor",
+      "physician",
+      "medical clinic",
+      "gp",
+      "healthcare provider"
+    ],
+    "aliases": [
+      "physician",
+      "medical doctor",
+      "doctor's office"
+    ]
+  },
+  {
+    "mcc": "8021",
+    "industry": "Dentists and Orthodontists",
+    "category": "Healthcare",
+    "description": "Dental and orthodontic healthcare providers.",
+    "keywords": [
+      "dentist",
+      "orthodontist",
+      "dental clinic",
+      "dental care",
+      "teeth care"
+    ],
+    "aliases": [
+      "dental office",
+      "orthodontic clinic"
+    ]
+  },
+  {
+    "mcc": "8031",
+    "industry": "Osteopaths",
+    "category": "Healthcare",
+    "description": "Osteopathic medicine practitioners.",
+    "keywords": [
+      "osteopath",
+      "osteopathic medicine",
+      "musculoskeletal treatment",
+      "osteopathy clinic",
+      "manual medicine"
+    ],
+    "aliases": [
+      "osteopathic practitioner"
+    ]
+  },
+  {
+    "mcc": "8041",
+    "industry": "Chiropractors",
+    "category": "Healthcare",
+    "description": "Chiropractic healthcare practitioners.",
+    "keywords": [
+      "chiropractor",
+      "spinal adjustment",
+      "chiropractic clinic",
+      "back treatment",
+      "chiropractic care"
+    ],
+    "aliases": [
+      "chiropractic office",
+      "chiropractor clinic"
+    ]
+  },
+  {
+    "mcc": "8042",
+    "industry": "Optometrists and Ophthalmologists",
+    "category": "Healthcare",
+    "description": "Eye care professionals providing optometric and ophthalmic services.",
+    "keywords": [
+      "optometrist",
+      "ophthalmologist",
+      "eye doctor",
+      "vision care",
+      "eye exam"
+    ],
+    "aliases": [
+      "eye clinic",
+      "vision specialist"
+    ]
+  },
+  {
+    "mcc": "8043",
+    "industry": "Opticians and Eyeglass Stores",
+    "category": "Healthcare",
+    "description": "Retailers of eyeglasses, contact lenses and optical products.",
+    "keywords": [
+      "optician",
+      "eyeglass store",
+      "contact lenses",
+      "optical shop",
+      "glasses retailer"
+    ],
+    "aliases": [
+      "optical store",
+      "eyewear shop"
+    ]
+  },
+  {
+    "mcc": "8049",
+    "industry": "Podiatrists and Chiropodists",
+    "category": "Healthcare",
+    "description": "Foot care specialists providing podiatric services.",
+    "keywords": [
+      "podiatrist",
+      "chiropodist",
+      "foot doctor",
+      "foot care clinic",
+      "podiatry"
+    ],
+    "aliases": [
+      "podiatry clinic",
+      "foot specialist"
+    ]
+  },
+  {
+    "mcc": "8050",
+    "industry": "Nursing and Personal Care Facilities",
+    "category": "Healthcare",
+    "description": "Nursing homes and personal care facilities for long-term care.",
+    "keywords": [
+      "nursing home",
+      "personal care facility",
+      "assisted living",
+      "long term care",
+      "elder care facility"
+    ],
+    "aliases": [
+      "nursing facility",
+      "assisted living home"
+    ]
+  },
+  {
+    "mcc": "8062",
+    "industry": "Hospitals",
+    "category": "Healthcare",
+    "description": "Hospitals providing inpatient and emergency medical care.",
+    "keywords": [
+      "hospital",
+      "medical center",
+      "emergency room",
+      "inpatient care",
+      "hospital services"
+    ],
+    "aliases": [
+      "hospitals",
+      "medical hospital"
+    ]
+  },
+  {
+    "mcc": "8071",
+    "industry": "Medical and Dental Laboratories",
+    "category": "Healthcare",
+    "description": "Medical and dental diagnostic laboratory services.",
+    "keywords": [
+      "medical lab",
+      "dental lab",
+      "diagnostic laboratory",
+      "lab testing services",
+      "pathology lab"
+    ],
+    "aliases": [
+      "diagnostic lab",
+      "clinical laboratory"
+    ]
+  },
+  {
+    "mcc": "8099",
+    "industry": "Medical Services and Health Practitioners",
+    "category": "Healthcare",
+    "description": "Medical services and health practitioners not otherwise classified.",
+    "keywords": [
+      "medical services misc",
+      "health practitioner",
+      "healthcare service",
+      "medical practitioner",
+      "clinical services"
+    ],
+    "aliases": [
+      "misc health services"
+    ]
+  },
+  {
+    "mcc": "8111",
+    "industry": "Legal Services and Attorneys",
+    "category": "Legal",
+    "description": "Legal services provided by attorneys and law firms.",
+    "keywords": [
+      "attorney",
+      "lawyer",
+      "law firm",
+      "legal services",
+      "legal counsel"
+    ],
+    "aliases": [
+      "law office",
+      "legal firm",
+      "attorney services"
+    ]
+  },
+  {
+    "mcc": "8211",
+    "industry": "Elementary and Secondary Schools",
+    "category": "Education",
+    "description": "Elementary and secondary educational institutions.",
+    "keywords": [
+      "elementary school",
+      "secondary school",
+      "k-12 school",
+      "primary school",
+      "high school"
+    ],
+    "aliases": [
+      "school",
+      "k-12 education"
+    ]
+  },
+  {
+    "mcc": "8220",
+    "industry": "Colleges, Universities and Professional Schools",
+    "category": "Education",
+    "description": "Colleges, universities and professional schools providing higher education.",
+    "keywords": [
+      "college",
+      "university",
+      "higher education",
+      "professional school",
+      "tertiary education"
+    ],
+    "aliases": [
+      "university",
+      "college institution"
+    ]
+  },
+  {
+    "mcc": "8241",
+    "industry": "Correspondence Schools",
+    "category": "Education",
+    "description": "Distance learning and correspondence education programs.",
+    "keywords": [
+      "correspondence school",
+      "distance learning",
+      "remote education program",
+      "mail based education",
+      "home study course"
+    ],
+    "aliases": [
+      "distance education",
+      "correspondence course"
+    ]
+  },
+  {
+    "mcc": "8244",
+    "industry": "Business and Secretarial Schools",
+    "category": "Education",
+    "description": "Business and secretarial training schools.",
+    "keywords": [
+      "business school",
+      "secretarial school",
+      "office skills training",
+      "vocational business course",
+      "admin training"
+    ],
+    "aliases": [
+      "business training school"
+    ]
+  },
+  {
+    "mcc": "8249",
+    "industry": "Vocational and Trade Schools",
+    "category": "Education",
+    "description": "Vocational and trade skills training institutions.",
+    "keywords": [
+      "vocational school",
+      "trade school",
+      "skills training",
+      "technical training institute",
+      "apprenticeship school"
+    ],
+    "aliases": [
+      "trade training school",
+      "vocational institute"
+    ]
+  },
+  {
+    "mcc": "8299",
+    "industry": "Educational Services",
+    "category": "Education",
+    "description": "Educational services not otherwise classified.",
+    "keywords": [
+      "educational service",
+      "tutoring",
+      "training program",
+      "learning service",
+      "education provider"
+    ],
+    "aliases": [
+      "misc education services",
+      "tutoring service"
+    ]
+  },
+  {
+    "mcc": "8351",
+    "industry": "Child Care Services",
+    "category": "Education",
+    "description": "Child care and daycare service providers.",
+    "keywords": [
+      "daycare",
+      "child care",
+      "nursery school",
+      "babysitting service",
+      "preschool"
+    ],
+    "aliases": [
+      "day care center",
+      "childcare service"
+    ]
+  },
+  {
+    "mcc": "8398",
+    "industry": "Charitable and Social Service Organizations",
+    "category": "Nonprofit",
+    "description": "Charitable organizations providing social services.",
+    "keywords": [
+      "charity",
+      "nonprofit organization",
+      "social service agency",
+      "charitable foundation",
+      "ngo"
+    ],
+    "aliases": [
+      "charitable organization",
+      "nonprofit"
+    ]
+  },
+  {
+    "mcc": "8641",
+    "industry": "Civic, Social and Fraternal Associations",
+    "category": "Nonprofit",
+    "description": "Civic, social and fraternal membership associations.",
+    "keywords": [
+      "civic association",
+      "social club",
+      "fraternal organization",
+      "community association",
+      "membership group"
+    ],
+    "aliases": [
+      "fraternal association",
+      "civic club"
+    ]
+  },
+  {
+    "mcc": "8651",
+    "industry": "Political Organizations",
+    "category": "Nonprofit",
+    "description": "Political parties and political organizations.",
+    "keywords": [
+      "political organization",
+      "political party",
+      "campaign organization",
+      "political committee",
+      "political group"
+    ],
+    "aliases": [
+      "political party organization"
+    ]
+  },
+  {
+    "mcc": "8661",
+    "industry": "Religious Organizations",
+    "category": "Nonprofit",
+    "description": "Churches, temples and other religious organizations.",
+    "keywords": [
+      "church",
+      "temple",
+      "mosque",
+      "religious organization",
+      "place of worship"
+    ],
+    "aliases": [
+      "religious institution",
+      "house of worship"
+    ]
+  },
+  {
+    "mcc": "8675",
+    "industry": "Automobile Associations",
+    "category": "Nonprofit",
+    "description": "Membership automobile associations providing roadside and travel benefits.",
+    "keywords": [
+      "auto club",
+      "automobile association",
+      "roadside assistance club",
+      "motoring association",
+      "car club membership"
+    ],
+    "aliases": [
+      "automobile club"
+    ]
+  },
+  {
+    "mcc": "8699",
+    "industry": "Membership Organizations",
+    "category": "Nonprofit",
+    "description": "Membership organizations not otherwise classified.",
+    "keywords": [
+      "membership organization",
+      "association",
+      "member club",
+      "professional association",
+      "membership group misc"
+    ],
+    "aliases": [
+      "misc membership organization"
+    ]
+  },
+  {
+    "mcc": "8734",
+    "industry": "Testing Laboratories (Non-Medical)",
+    "category": "Professional Services",
+    "description": "Non-medical testing and quality assurance laboratories.",
+    "keywords": [
+      "testing laboratory",
+      "quality testing lab",
+      "materials testing",
+      "calibration lab",
+      "product testing service"
+    ],
+    "aliases": [
+      "testing lab",
+      "qa laboratory"
+    ]
+  },
+  {
+    "mcc": "8911",
+    "industry": "Architectural, Engineering and Surveying Services",
+    "category": "Professional Services",
+    "description": "Architectural, engineering and land surveying service providers.",
+    "keywords": [
+      "architect",
+      "engineering firm",
+      "surveying services",
+      "structural engineer",
+      "architectural design"
+    ],
+    "aliases": [
+      "architecture firm",
+      "engineering services"
+    ]
+  },
+  {
+    "mcc": "8931",
+    "industry": "Accounting, Auditing and Bookkeeping Services",
+    "category": "Accounting",
+    "description": "Accounting, auditing and bookkeeping service providers.",
+    "keywords": [
+      "accountant",
+      "bookkeeping",
+      "auditing firm",
+      "cpa",
+      "accounting services"
+    ],
+    "aliases": [
+      "accounting firm",
+      "bookkeeper"
+    ]
+  },
+  {
+    "mcc": "8999",
+    "industry": "Professional Services",
+    "category": "Professional Services",
+    "description": "Professional services not otherwise classified.",
+    "keywords": [
+      "professional services misc",
+      "consulting service general",
+      "professional practice",
+      "service provider misc",
+      "professional firm"
+    ],
+    "aliases": [
+      "misc professional services"
+    ]
+  },
+  {
+    "mcc": "9211",
+    "industry": "Court Costs, Alimony and Child Support",
+    "category": "Government",
+    "description": "Payments for court costs, alimony and child support obligations.",
+    "keywords": [
+      "court costs",
+      "alimony payment",
+      "child support",
+      "legal payment",
+      "court fees"
+    ],
+    "aliases": [
+      "court fees payment",
+      "alimony and child support"
+    ]
+  },
+  {
+    "mcc": "9222",
+    "industry": "Fines",
+    "category": "Government",
+    "description": "Payment of government-imposed fines and penalties.",
+    "keywords": [
+      "fine payment",
+      "penalty payment",
+      "government fine",
+      "citation payment",
+      "violation fee"
+    ],
+    "aliases": [
+      "government fine payment"
+    ]
+  },
+  {
+    "mcc": "9223",
+    "industry": "Bail and Bond Payments",
+    "category": "Government",
+    "description": "Payments for bail and bond obligations.",
+    "keywords": [
+      "bail payment",
+      "bond payment",
+      "bail bond",
+      "court bond",
+      "bail posting"
+    ],
+    "aliases": [
+      "bail bond payment"
+    ]
+  },
+  {
+    "mcc": "9311",
+    "industry": "Tax Payments",
+    "category": "Government",
+    "description": "Payment of government taxes.",
+    "keywords": [
+      "tax payment",
+      "government tax",
+      "tax bill payment",
+      "income tax payment",
+      "property tax payment"
+    ],
+    "aliases": [
+      "tax payments",
+      "government taxes"
+    ]
+  },
+  {
+    "mcc": "9399",
+    "industry": "Government Services",
+    "category": "Government",
+    "description": "Government agency services not otherwise classified.",
+    "keywords": [
+      "government service",
+      "public sector service",
+      "municipal service",
+      "government agency",
+      "civic service"
+    ],
+    "aliases": [
+      "misc government services"
+    ]
+  },
+  {
+    "mcc": "9402",
+    "industry": "Postal Services - Government Only",
+    "category": "Government",
+    "description": "Government-operated postal and mail delivery services.",
+    "keywords": [
+      "postal service",
+      "post office",
+      "mail delivery",
+      "government post",
+      "postage payment"
+    ],
+    "aliases": [
+      "post office service",
+      "postal agency"
+    ]
+  },
+  {
+    "mcc": "9405",
+    "industry": "Intra-Government Purchases",
+    "category": "Government",
+    "description": "Purchases and transactions between government entities.",
+    "keywords": [
+      "intra government purchase",
+      "government to government transaction",
+      "public sector procurement",
+      "government agency purchase",
+      "interagency purchase"
+    ],
+    "aliases": [
+      "government interagency purchase"
+    ]
+  },
+  {
+    "mcc": "9700",
+    "industry": "Automated Referral Service",
+    "category": "Financial Services",
+    "description": "Automated payment referral service transactions.",
+    "keywords": [
+      "automated referral service",
+      "payment referral",
+      "referral transaction",
+      "automated payment routing",
+      "referral service"
+    ],
+    "aliases": [
+      "automated referral"
+    ]
+  },
+  {
+    "mcc": "9701",
+    "industry": "Visa Credential Server",
+    "category": "Financial Services",
+    "description": "Card network credential server transactions.",
+    "keywords": [
+      "credential server",
+      "card network service",
+      "visa credential",
+      "payment credential service",
+      "network credential transaction"
+    ],
+    "aliases": [
+      "payment credential server"
+    ]
+  },
+  {
+    "mcc": "9702",
+    "industry": "GCAS Emergency Services",
+    "category": "Financial Services",
+    "description": "Card network emergency cash and services transactions.",
+    "keywords": [
+      "emergency cash service",
+      "gcas",
+      "card network emergency service",
+      "emergency assistance transaction",
+      "cardholder emergency service"
+    ],
+    "aliases": [
+      "emergency card services"
+    ]
+  },
+  {
+    "mcc": "9950",
+    "industry": "Intra-Company Purchases",
+    "category": "Financial Services",
+    "description": "Purchases and transactions between entities within the same company.",
+    "keywords": [
+      "intra company purchase",
+      "internal company transaction",
+      "related party transaction",
+      "corporate internal purchase",
+      "intracompany transfer"
+    ],
+    "aliases": [
+      "intracompany purchase"
+    ]
+  }
+]

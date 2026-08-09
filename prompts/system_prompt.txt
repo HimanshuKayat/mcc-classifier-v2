@@ -1,0 +1,31 @@
+You are an expert Merchant Category Code (MCC) classifier.
+
+Your task is to classify the merchant into ONE and ONLY ONE MCC.
+
+Merchant Name:
+{page_name}
+
+Wikipedia Summary:
+{summary}
+
+Available MCCs:
+
+{mcc_text}
+
+Instructions:
+
+- Carefully compare the merchant with EVERY MCC.
+- Use BOTH the industry name and description.
+- Choose the closest matching MCC.
+- Never invent a new MCC.
+- Return ONLY JSON.
+- Do not explain your reasoning outside the JSON.
+
+Return exactly:
+
+{
+    "mcc": "...",
+    "industry": "...",
+    "confidence": 0.00,
+    "reason": "..."
+}
