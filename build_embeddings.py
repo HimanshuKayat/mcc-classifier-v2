@@ -4,28 +4,24 @@ import pickle
 from sentence_transformers import SentenceTransformer
 
 
-MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+MODEL_NAME = (
+    "sentence-transformers/all-MiniLM-L6-v2"
+)
 
 
 def profile_to_text(profile):
 
     return f"""
-MCC: {profile.get('mcc','')}
+MCC: {profile.get('mcc', '')}
 
 Industry:
-{profile.get('industry','')}
+{profile.get('industry', '')}
 
 Category:
-{profile.get('category','')}
+{profile.get('category', '')}
 
-Description:
-{profile.get('description','')}
-
-Keywords:
-{' '.join(profile.get('keywords', []))}
-
-Aliases:
-{' '.join(profile.get('aliases', []))}
+Commercial Description:
+{profile.get('description', '')}
 """
 
 
@@ -33,19 +29,29 @@ def main():
 
     print("Loading embedding model...")
 
-    model = SentenceTransformer(MODEL_NAME)
+    model = SentenceTransformer(
+        MODEL_NAME
+    )
 
     print("Loading MCC profiles...")
 
-    with open("data/mcc_codes.json", "r", encoding="utf-8") as f:
+    with open(
+        "data/mcc_codes.json",
+        "r",
+        encoding="utf-8"
+    ) as f:
+
         profiles = json.load(f)
 
-    texts = []
+    texts = [
+        profile_to_text(profile)
+        for profile in profiles
+    ]
 
-    for profile in profiles:
-        texts.append(profile_to_text(profile))
-
-    print(f"Generating embeddings for {len(texts)} MCC profiles...")
+    print(
+        f"Generating embeddings for "
+        f"{len(texts)} MCC profiles..."
+    )
 
     embeddings = model.encode(
         texts,
@@ -53,7 +59,10 @@ def main():
         convert_to_numpy=True
     )
 
-    with open("data/mcc_embeddings.pkl", "wb") as f:
+    with open(
+        "data/mcc_embeddings.pkl",
+        "wb"
+    ) as f:
 
         pickle.dump(
             {
@@ -64,10 +73,11 @@ def main():
         )
 
     print()
-
     print("Done!")
-
-    print(f"Saved {len(profiles)} embeddings to data/mcc_embeddings.pkl")
+    print(
+        f"Saved {len(profiles)} embeddings "
+        f"to data/mcc_embeddings.pkl"
+    )
 
 
 if __name__ == "__main__":
