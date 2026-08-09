@@ -5,56 +5,91 @@ class MCCPromptBuilder:
 
     def build_prompt(self, entity_profile, candidate_mccs):
 
-        entity_json = json.dumps(entity_profile, indent=4)
+        entity_json = json.dumps(
+            entity_profile,
+            indent=4,
+            ensure_ascii=False
+        )
 
         mcc_text = ""
 
-        for item in candidate_mccs:
+        for index, item in enumerate(candidate_mccs, start=1):
 
             mcc_text += (
-                f"MCC: {item.get('mcc','')}\n"
-                f"Industry: {item.get('industry','')}\n"
-                f"Category: {item.get('category','')}\n"
-                f"Description: {item.get('description','')}\n"
+                f"Candidate {index}\n"
+                f"MCC: {item.get('mcc', '')}\n"
+                f"Industry: {item.get('industry', '')}\n"
+                f"Category: {item.get('category', '')}\n"
+                f"Description: {item.get('description', '')}\n"
                 f"Keywords: {', '.join(item.get('keywords', []))}\n"
                 f"Aliases: {', '.join(item.get('aliases', []))}\n\n"
             )
 
-        prompt = f"""
-You are an expert Merchant Category Code (MCC) classifier.
+        return f"""
+You are an expert Merchant Category Code classifier.
 
-Below is a structured business profile.
+You are given:
 
-Business Profile
+1. A structured commercial entity profile.
+2. Exactly 20 MCC candidates retrieved through semantic similarity.
+
+Your task is to rank the BEST 5 MCCs from those 20 candidates.
+
+ENTITY PROFILE:
 
 {entity_json}
 
-Below are the MOST SEMANTICALLY SIMILAR MCC profiles retrieved from the database.
+RETRIEVED MCC CANDIDATES:
 
 {mcc_text}
 
-Your task is to compare the Business Profile with ONLY these candidate MCC profiles.
+RULES:
 
-Use all information available in the Business Profile.
+1. Select EXACTLY 5 MCCs.
+2. You may ONLY select MCCs appearing in the candidate list.
+3. NEVER invent an MCC.
+4. NEVER modify an MCC.
+5. Do not use any MCC outside the supplied 20 candidates.
+6. Rank the candidates from most appropriate to least appropriate.
+7. Prefer the MCC that most specifically represents the entity's
+   primary commercial activity.
+8. Consider the actual product/service, commercial activity, customers,
+   delivery method and business model.
+9. Do not choose an MCC merely because it shares a word with the entity.
+10. Do not assign confidence scores.
+11. Provide one concise semantic reason for every selected MCC.
+12. Return ONLY valid JSON.
+13. Do not include any additional text.
 
-Do NOT compare against any MCC outside this list.
-
-Think internally.
-
-Do NOT explain your reasoning.
-
-Do NOT list candidate MCCs.
-
-Do NOT rank MCCs.
-
-Return ONLY one valid JSON object.
+Return exactly:
 
 {{
-    "mcc": "0000",
-    "industry": "Industry Name",
-    "confidence": 0.95,
-    "reason": "One concise sentence explaining the selected MCC."
+    "predictions": [
+        {{
+            "rank": 1,
+            "mcc": "",
+            "reason": ""
+        }},
+        {{
+            "rank": 2,
+            "mcc": "",
+            "reason": ""
+        }},
+        {{
+            "rank": 3,
+            "mcc": "",
+            "reason": ""
+        }},
+        {{
+            "rank": 4,
+            "mcc": "",
+            "reason": ""
+        }},
+        {{
+            "rank": 5,
+            "mcc": "",
+            "reason": ""
+        }}
+    ]
 }}
 """
-
-        return prompt
