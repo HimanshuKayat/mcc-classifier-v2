@@ -26,25 +26,19 @@ class MCCClassifier:
 
         page_name = row["article"]
 
-        # Use metadata directly from the input Excel row.
+        # Use categories directly from the input Excel row.
         wikimedia_categories = row.get("categories", "")
-        instance_of = row.get("instance_of", "")
-        short_description = row.get("short_description", "")
 
         print("\n========== WIKIMEDIA METADATA ==========\n")
 
         print(f"Article: {page_name}")
         print(f"Categories: {wikimedia_categories}")
-        print(f"Instance of: {instance_of}")
-        print(f"Short description: {short_description}")
 
         print("\n========================================\n")
 
         entity_prompt = self.entity_prompt_builder.build_prompt(
             page_name,
-            wikimedia_categories,
-            instance_of,
-            short_description
+            wikimedia_categories
         )
 
         entity_response = self.model.generate(entity_prompt)
