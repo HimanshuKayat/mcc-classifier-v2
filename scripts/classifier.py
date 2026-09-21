@@ -2,7 +2,6 @@ from models.llama_model import LlamaModel
 from prompts.entity_prompt import EntityPromptBuilder
 from prompts.mcc_prompt import MCCPromptBuilder
 from retriever.embedding_retriever import EmbeddingRetriever
-from utils.wikimedia_metadata import WikimediaMetadata
 from parser import JSONParser
 
 
@@ -19,35 +18,33 @@ class MCCClassifier:
 
         self.retriever = EmbeddingRetriever()
 
-        # Load Wikimedia metadata once at startup.
-        self.wikimedia_metadata = WikimediaMetadata()
-
-    def classify(self, page_name: str):
+    def classify(self, row):
 
         ####################################################
         # STEP 1 : Entity Understanding
         ####################################################
 
-        # Get Wikimedia categories for this article.
-        wikimedia_categories = (
-            self.wikimedia_metadata.get_categories(page_name)
-        )
+        page_name = row["article"]
+
+        # Use metadata directly from the input Excel row.
+        wikimedia_categories = row.get("categories", "")
+        instance_of = row.get("instance_of", "")
+        short_description = row.get("short_description", "")
 
         print("\n========== WIKIMEDIA METADATA ==========\n")
 
-        if wikimedia_categories:
-            print(f"Article: {page_name}")
-            print(f"Categories: {wikimedia_categories}")
-        else:
-            print(
-                f"No Wikimedia categories found for: {page_name}"
-            )
+        print(f"Article: {page_name}")
+        print(f"Categories: {wikimedia_categories}")
+        print(f"Instance of: {instance_of}")
+        print(f"Short description: {short_description}")
 
         print("\n========================================\n")
 
         entity_prompt = self.entity_prompt_builder.build_prompt(
             page_name,
-            wikimedia_categories
+            wikimedia_categories,
+            instance_of,
+            short_description
         )
 
         entity_response = self.model.generate(entity_prompt)
