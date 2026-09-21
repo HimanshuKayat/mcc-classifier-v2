@@ -8,7 +8,8 @@ from parser import JSONParser
 
 class MCCClassifier:
 
-    def __init__(self):
+    def __init__(self, debug=False):
+        self.debug = debug
 
         self.model = LlamaModel()
 
