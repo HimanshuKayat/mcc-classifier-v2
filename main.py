@@ -9,7 +9,7 @@ from scripts.classifier import MCCClassifier
 # SETTINGS
 # ==========================================================
 
-INPUT_FILE = "data/articles_metadata.xlsx"
+INPUT_FILE = "data/wikimedia/india_articles_metadata_v3.xlsx"
 
 OUTPUT_FILE = "outputs/articles_metadata_output.xlsx"
 
@@ -443,9 +443,7 @@ def main():
 
         try:
 
-            result = classifier.classify(
-                article_name
-            )
+            result = classifier.classify(row)
 
             entity = result[
                 "entity_profile"
